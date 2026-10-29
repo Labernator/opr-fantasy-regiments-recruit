@@ -26,11 +26,6 @@
         "id": "2db6-c01f-eb4c-d8dd",
         "hidden": false,
         "categoryLinks": [
-          {"name": "Artillery", "id": "6338-ba81-f924-471a", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"},
-          {"name": "Core Units", "id": "6803-89b3-634c-19d9", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
-          {"name": "Heroes", "id": "3c1f-1a19-39d9-b19c", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"},
-          {"name": "Light Vehicles / Small Monsters", "id": "5530-efd8-951c-b972", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
-          {"name": "Vehicles / Monsters", "id": "34ac-1f59-5dd1-1340", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
           {
             "name": "Heroes",
             "id": "3c1f-1a19-39d9-b19c",
@@ -39,6 +34,11 @@
             "targetId": "f2ae-b443-c942-7f64",
             "constraints": [{"id": "c5a1-0002-d00d-0002", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 2}]
           },
+          
+          {"name": "Core Units", "id": "6803-89b3-634c-19d9", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Light Vehicles / Small Monsters", "id": "5530-efd8-951c-b972", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
+          {"name": "Vehicles / Monsters", "id": "34ac-1f59-5dd1-1340", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
+          {"name": "Artillery", "id": "6338-ba81-f924-471a", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"},
           {
             "name": "Units",
             "id": "c5a1-0003-d00d-0003",
