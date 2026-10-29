@@ -1,0 +1,1090 @@
+{
+  "catalogue": {
+    "name": "Special Rules",
+    "id": "3cd5-2770-e624-13d1",
+    "battleScribeVersion": "2.03",
+    "gameSystemId": "sys-1c44-ba44-55bb-92fa",
+    "gameSystemRevision": 1,
+    "library": true,
+    "revision": 1,
+    "type": "catalogue",
+    "sharedProfiles": [
+      {
+        "name": "Tough (3)",
+        "id": "a399-8665-775c-3f4f",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "This model must take 3 wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. You must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last, even if already wounded).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Caster (2)",
+        "id": "2314-1aa4-a4c0-ac52",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Gets 2 spell tokens at the start of each round, but can’t hold more than 6 tokens at once. At any point before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Roll one die, on 4+ resolve the effect on a target in line of sight in any direction. Models within 18” in line of sight of the caster’s unit may spend any number of spell tokens at the same time before rolling, to give the caster +1/-1 to the roll per token.\n\n\n\n",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Caster (3)",
+        "id": "778f-9b72-53e5-e8dd",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Gets 3 spell tokens at the start of each round, but can’t hold more than 6 tokens at once. At any point before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Roll one die, on 4+ resolve the effect on a target in line of sight in any direction. Models within 18” in line of sight of the caster’s unit may spend any number of spell tokens at the same time before rolling, to give the caster +1/-1 to the roll per token.\n\n\n\n",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Melee Shrouding",
+        "id": "22d6-085b-479b-b226",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Enemies get -3\" movement to a min. of 6\" when trying to charge units where all models have this rule.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Melee Shrouding Aura",
+        "id": "8e87-954c-9d7d-bc19",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Melee Shrouding'", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Retreating Strike (1)",
+        "id": "3e88-f6db-8336-636c",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per round, when this unit ends its move within 3\" of enemy units after being in melee, pick one of them and roll 1 dice for each model with this rule in this unit. For each 6+ the target takes one wound.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Impact (3)",
+        "id": "1e7a-7465-63f6-1ce8",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Impact: Models in the two front rows roll 3 dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Tough (+3)",
+        "id": "8d31-03c5-361a-3006",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Increases the Tough value by the number in the brackets", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Armour (4+)",
+        "id": "add8-949e-f1c5-05c8",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Sets the Defense to the value in the bracket", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Armour (3+)",
+        "id": "ef19-c6a5-1da3-7326",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Sets the Defense to the value in the bracket", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Rapid Charge Aura",
+        "id": "cf81-eb9c-7ed7-d3cb",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Rapid Charge'", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Piercing Frenzy",
+        "id": "72d1-46f7-583b-a836",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Place one marker on this unit when it fully destroys an enemy unit, up to a max. of two markers. For each marker all models with this rule in this unit get AP(+1) on their weapons when attacking until the end of the game.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Harassing",
+        "id": "f2cb-e575-1868-5a6d",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per round, units where all models have this rule may move by up to 3\" after shooting or being in melee.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Aircraft",
+        "id": "3FeiOe3krHMa",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "May only use Advance actions, moving in a straight line, and adding 30” to its total move (even if Shaken). Aircraft ignore all units and terrain when moving and stopping, can’t seize or contest objectives, can’t be charged, and units targeting them get -12” range.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Ambush",
+        "id": "6mJw5IdqSqNC",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "May be set aside before deployment. At the start of any round after the first, may be deployed fully within 6” of any table edge, over 9\" away from enemy units. Players alternate in placing Ambush units, starting with the player that activates next. Units that deploy via Ambush can’t seize or contest objectives on the round they deploy.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "AP",
+        "id": "17crjK7P6_w6",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Targets get -X to Defense rolls when blocking hits.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Artillery",
+        "id": "GRuFoZiyjY5f",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "May only use Hold actions. When this model shoots at enemies over 9\" away, it gets +1 to hit rolls. When enemy units shoot at this model from over 9\" away, they get -2 to hit rolls.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Bane",
+        "id": "Naqc5mga9Uha",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Ignores Regeneration, and when attacking the target must re-roll unmodified Defense results of 6.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Banner",
+        "id": "ywXKQKPOLjTF",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get +1 to morale test rolls.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Blast",
+        "id": "w_vX0mi58KKt",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Ignores cover, and after resolving other special rules, each hit is multiplied by X, where X is up to as many hits as models in the target unit.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Caster",
+        "id": "47CAqf7ySlfc",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Gets X spell tokens at the start of each round, but can’t hold more than 6 tokens at once. At any point before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Roll one die, on 4+ resolve the effect on a target in line of sight in any direction. Models within 18” in line of sight of the caster’s unit may spend any number of spell tokens at the same time before rolling, to give the caster +1/-1 to the roll per token.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Counter",
+        "id": "c45Fw0D2oGOk",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Strikes first with this weapon when charged, and the charging unit gets -1 total Impact rolls per model with Counter in the two front rows if charging in the front.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Deadly",
+        "id": "_mrPya5SXSqW",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Assign each wound to one model, and multiply it by X. Hits from Deadly must be resolved first, and these wounds don’t carry over to other models if the original target is killed.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Entrenched",
+        "id": "wHfLIdlnEQ1a",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "As long as a unit where all models have this rule hasn't moved during the round, enemy units shooting at it from over 9\" away get -2 to hit rolls.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Fast",
+        "id": "KdgwlPb8LuD2",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Moves +2\" when using Advance, and +4” when using Rush/Charge.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Fear",
+        "id": "dIQ3SGl2J2Ew",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model counts as having dealt +X wounds when checking who won melee.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Fearless",
+        "id": "2atvlmICQSCV",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When a unit where all models have this rule fails a morale test, roll one die. On a 4+ it counts as passed instead.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Flying",
+        "id": "-QJdqJEKjIpE",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "May move through units and terrain, and ignores terrain effects whilst moving.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Furious",
+        "id": "JoOCVPx1xT1G",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When charging, unmodified results of 6 to hit in melee deal 1 extra hit (only the original hit counts as a 6 for special rules).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Hero",
+        "id": "T08VkBuVmNZ",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Heroes with up to Tough(6) may deploy as part of one multi-model unit without another Hero. The hero may take morale tests on behalf of the unit, but must use the unit’s Defense until all other models have been killed.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Immobile",
+        "id": "HWtnPV9LQF1D",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "May only use Hold actions.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Impact",
+        "id": "62-mYKVM9MLd",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Models in the two front rows roll X dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Indirect",
+        "id": "8Ck9GAwUK824",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Gets -1 to hit rolls when shooting after moving. May target enemies that are not in line of sight as if in line of sight, and ignores cover from sight obstructions.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Limited",
+        "id": "9042COVrLCsI",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "May only be used once per game.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Morale",
+        "id": "PXIxtMdcLyqp",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Gets +X to morale test rolls.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Musician",
+        "id": "qrG_DXJez5Dg",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit moves +1\" when using move actions.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Regeneration",
+        "id": "8KujvrTG8k9p",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When a unit where all models have this rule takes wounds, roll one die for each. On a 5+ it is ignored.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Relentless",
+        "id": "H9E9PIWpGRdw",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When this model shoots at enemies over 9\" away, unmodified results of 6 to hit deal 1 extra hit (only the original hit counts as a 6 for special rules).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Reliable",
+        "id": "Zx4mWN0SbmK8",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Attacks at Quality 2+.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Rending",
+        "id": "cavWDboL4ubs",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Ignores Regeneration, and on unmodified results of 6 to hit, those hits get AP(+4).", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Scout",
+        "id": "FAMbscK5vhSu",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "May be set aside before deployment. After all other units are deployed, may be deployed anywhere fully within 12” of their deployment zone. Players alternate in placing Scout units, starting with the player that activates next.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Slow",
+        "id": "Ldhtmr4H8b6G",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Moves -2\" when using Advance, and -4” when using Rush/Charge.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Sniper REMOVE",
+        "id": "LGYXUcXfcJac",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Shoots at Quality 2+, and each model with Sniper may pick any model in the target unit as its individual target, which is resolved as if it was a unit of 1. Sniper shooting must be resolved before other weapons.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Stealth",
+        "id": "9jyvRoBODD-O",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When units where all models have this rule are shot from over 9\" away, enemy units get -1 to hit rolls.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Strider",
+        "id": "JSKVyurtWIyW",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "May ignore the effects of difficult terrain when moving. ", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Takedown",
+        "id": "8Hjy54TYtwb7",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "This model may pick any model in the target unit as its individual target, which is resolved as if it was a unit of [1]. Takedown attacks must be resolved before other weapons.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Thrust",
+        "id": "umbiz4tnEyF8",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "When charging, gets +1 to hit rolls and AP(+1) in melee.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Tough",
+        "id": "a0YtInGiUDd6",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "This model must take X wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. You must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last, even if already wounded).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Transport",
+        "id": "aogQZcOOQrDI",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "May transport up to X models or Heroes with up to Tough(6), and non-Heroes with up to Tough(3) which occupy 3 spaces each. Transports may deploy with units inside, and units may enter/exit by using any move action, but must stay fully within 6\" of it when exiting. Units inside/outside transports may not target other units outside/inside transports, but may target the transport itself. When a transport is destroyed, units inside must take a dangerous terrain test, are Shaken, and must be placed fully within 6” of the transport before it’s removed.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Unstoppable",
+        "id": "QXyt-zV_bjpg",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Ignores Regeneration, and ignores all negative modifiers to this weapon.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Impact (1)",
+        "id": "d1c2-855d-0ed3-cf7d",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Impact: Models in the two front rows roll 1 dice when attacking after charging, unless fatigued. For each 2+ the target takes one hit.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Harassing Boost Aura",
+        "id": "b226-4593-fac1-b432",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Harassing Boost'", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Quick Shot Aura",
+        "id": "8c8f-fede-aadd-5b7f",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Quick Shot'", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Ambush Aura",
+        "id": "b1af-48a7-b5dd-44b6",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Ambush'", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Takedown Strike",
+        "id": "be2d-d968-b6db-6fe9",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per game, when it's this model's turn to attack in melee, it may make one attack at Quality 2+ with AP(2), Deadly(3), and Takedown.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Fear (2)",
+        "id": "3b38-2e1b-a282-bf0f",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model counts as having dealt +2 wounds when checking who won melee.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Ravage (1)",
+        "id": "30a4-f903-7b6a-a032",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When it's this model's turn to attack in melee, roll 1 dice. For each 6+ the target takes one wound.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Breath Attack",
+        "id": "b7c6-43c9-fa23-871f",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per activation, before attacking, roll one die. On a 2+ one enemy unit within 6\" in line of sight takes 1 hit with Blast(3) and AP(1).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Tough (+12)",
+        "id": "2b1e-b896-2e9d-1b2b",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Increases the Tough value by the number in the brackets", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Tough (+6)",
+        "id": "7430-8da5-d855-b627",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Increases the Tough value by the number in the brackets", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Harassing Boost",
+        "id": "036a-af9b-5344-a6b3",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "If most models in this unit have , they may move by up to 6\" from (instead of only 3\").", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Retreating Strike (X)",
+        "id": "aa54-2f4e-a1c4-882d",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per round, when this unit ends its move within 3\" of enemy units after being in melee, pick one of them and roll X dice for each model with this rule in this unit. For each 6+ the target takes one wound.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Deadly (3)",
+        "id": "5712-9a1f-b3e5-8d95",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Assign each wound to one model, and multiply it by 3. Hits from Deadly must be resolved first, and these wounds don’t carry over to other models if the original target is killed.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Quick Shot",
+        "id": "dd07-de12-37c7-a831",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "If all models in this unit have this rule, they may use Rush actions to move sideways or backward (by up to half their move), and may shoot after using Rush actions.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Piercing Assault",
+        "id": "c447-8ac3-3223-6e89",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model gets AP(+1) when charging.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Piercing Assault Buff",
+        "id": "ce77-0022-1b0a-2819",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per activation, before attacking, pick one friendly unit within 12\", which gets 'Piercing Assault' once (next time the effect would apply).\n'Piercing Assault': This model gets AP(+1) when charging.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Deadly (6)",
+        "id": "76c6-709c-92de-2cbd",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Assign each wound to one model, and multiply it by 6. Hits from Deadly must be resolved first, and these wounds don’t carry over to other models if the original target is killed.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Caster (1)",
+        "id": "a216-f909-b23a-327b",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Gets 1 spell token at the start of each round, but can’t hold more than 6 tokens at once. At any point before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Roll one die, on 4+ resolve the effect on a target in line of sight in any direction. Models within 18” in line of sight of the caster’s unit may spend any number of spell tokens at the same time before rolling, to give the caster +1/-1 to the roll per token.\n\n\n\n",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Rapid Charge",
+        "id": "f28e-3205-7c74-bfa5",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model moves +4\" when using Charge actions.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Rapid Charge Mark",
+        "id": "4fdb-da92-d2e7-51a6",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per activation, before attacking, pick one enemy unit within 18\" in line of sight, which friendly units gets 'Rapid Charge' against once (next time the effect would apply).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Retreating Strike (3)",
+        "id": "0ac9-1d2d-6cb2-1747",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per round, when this unit ends its move within 3\" of enemy units after being in melee, pick one of them and roll 3 dice for each model with this rule in this unit. For each 6+ the target takes one wound.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Unpredictable Fighter",
+        "id": "3c56-1e99-8606-9686",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When in melee, roll one die and apply one effect to all models with this rule: on a 1-3 they get AP(+1), and on a 4-6 they get +1 to hit rolls instead.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Precision Fighter Buff",
+        "id": "7ec7-c259-e32a-300f",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per activation, before attacking, pick one friendly unit within 12\", which gets +1 to hit rolls in melee once (next time the effect would apply).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Tough (9)",
+        "id": "a38c-b031-7464-4c72",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "This model must take 9 wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. You must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last, even if already wounded).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Tough (12)",
+        "id": "a2d8-01d3-bb99-6a29",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "This model must take 12 wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. You must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last, even if already wounded).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Sorcerer (Caster(2))",
+        "id": "50d3-2c76-0b29-492f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Caster (2)", "id": "313c-5c24-5e31-4b07", "hidden": false, "targetId": "2314-1aa4-a4c0-ac52", "type": "profile"}]
+      },
+      {
+        "name": "Looting Frenzy (Piercing Frenzy)",
+        "id": "c189-0d57-d2e4-c04f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 5}],
+        "infoLinks": [{"name": "Piercing Frenzy", "id": "45b5-6e6f-071d-78f7", "hidden": false, "targetId": "72d1-46f7-583b-a836", "type": "profile"}]
+      },
+      {
+        "name": "Master Sorcerer (Caster(3))",
+        "id": "457a-ebe1-12b9-671c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Caster (3)", "id": "1938-a373-7900-28c9", "hidden": false, "targetId": "778f-9b72-53e5-e8dd", "type": "profile"}]
+      },
+      {
+        "name": "Quartermaster (Melee Shrouding Aura)",
+        "id": "dd75-16c8-295c-7454",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Melee Shrouding Aura", "id": "60c5-132c-c6f0-a715", "hidden": false, "targetId": "8e87-954c-9d7d-bc19", "type": "profile"},
+          {"name": "Melee Shrouding", "id": "0ced-0dca-7d09-3eed", "hidden": false, "targetId": "22d6-085b-479b-b226", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Boarding Attack (Retreating Strike(1))",
+        "id": "56d4-b004-2d2f-0e2b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 5}],
+        "infoLinks": [{"name": "Retreating Strike (1)", "id": "abe6-c44e-f23c-87db", "hidden": false, "targetId": "3e88-f6db-8336-636c", "type": "profile"}]
+      },
+      {
+        "name": "Guardian Leader (Fearless, Furious)",
+        "id": "37c7-d68f-c83e-721e",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Fearless", "id": "6808-9f6c-a994-3161", "hidden": false, "targetId": "2atvlmICQSCV", "type": "profile"},
+          {"name": "Furious", "id": "8d6a-dd4d-c7f3-7577", "hidden": false, "targetId": "JoOCVPx1xT1G", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Slaughter Leader (Melee Evasion, Strider)",
+        "id": "c323-51ad-1dab-eb47",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Strider", "id": "fb49-30a3-6982-3609", "hidden": false, "targetId": "JSKVyurtWIyW", "type": "profile"}]
+      },
+      {
+        "name": "Shade Master (Scout, Stealth)",
+        "id": "6269-c98e-fbd1-b90b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Scout", "id": "ca07-11c2-dc09-0d4f", "hidden": false, "targetId": "FAMbscK5vhSu", "type": "profile"},
+          {"name": "Stealth", "id": "af52-f050-af5f-c271", "hidden": false, "targetId": "9jyvRoBODD-O", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Corsair Leader (Stealth)",
+        "id": "cc00-b40f-605f-1b4b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Stealth", "id": "13ed-261f-b8a9-4962", "hidden": false, "targetId": "9jyvRoBODD-O", "type": "profile"}]
+      },
+      {
+        "name": "Witch Leader (Furious)",
+        "id": "4406-69d8-ef8b-f2ba",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Furious", "id": "1363-60e7-fbe5-0fe0", "hidden": false, "targetId": "JoOCVPx1xT1G", "type": "profile"}]
+      },
+      {
+        "name": "Boarding Expert (Harassing Boost Aura)",
+        "id": "d3a2-841e-7948-dc0d",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Harassing Boost Aura", "id": "19bd-15ee-8079-4342", "hidden": false, "targetId": "b226-4593-fac1-b432", "type": "profile"},
+          {"name": "Harassing Boost", "id": "e109-3011-9d95-5a9b", "hidden": false, "targetId": "036a-af9b-5344-a6b3", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Freebooter Captain (Quick Shot Aura)",
+        "id": "365c-b52b-b0f2-59a9",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Quick Shot Aura", "id": "e97c-ee26-d058-da5a", "hidden": false, "targetId": "8c8f-fede-aadd-5b7f", "type": "profile"},
+          {"name": "Quick Shot", "id": "dc93-72be-b1c3-8546", "hidden": false, "targetId": "dd07-de12-37c7-a831", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Fleet Master (Ambush Aura)",
+        "id": "90af-5e5b-28d0-85d7",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Ambush Aura", "id": "c06e-a286-c018-80a7", "hidden": false, "targetId": "b1af-48a7-b5dd-44b6", "type": "profile"},
+          {"name": "Ambush", "id": "4332-2e92-e49b-2a3d", "hidden": false, "targetId": "6mJw5IdqSqNC", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Shade Assassin (Takedown Strike)",
+        "id": "a5e4-0652-fa0f-526d",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Takedown Strike", "id": "1f73-2e50-f2f4-0430", "hidden": false, "targetId": "be2d-d968-b6db-6fe9", "type": "profile"},
+          {"name": "Takedown", "id": "9997-97f8-c365-1ccf", "hidden": false, "targetId": "8Hjy54TYtwb7", "type": "profile"},
+          {"name": "Deadly (3)", "id": "c5cf-df9a-976c-8d11", "hidden": false, "targetId": "5712-9a1f-b3e5-8d95", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Army Standard Bearer (Fear(2)) ",
+        "id": "88ce-ae0c-85fe-71b7",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Fear (2)", "id": "f952-10f9-4407-22ca", "hidden": false, "targetId": "3b38-2e1b-a282-bf0f", "type": "profile"}]
+      },
+      {
+        "name": "Piercing Assault Buff",
+        "id": "eed4-8850-e4f6-12c6",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Piercing Assault Buff", "id": "e364-5c3f-50f8-4339", "hidden": false, "targetId": "ce77-0022-1b0a-2819", "type": "profile"}]
+      },
+      {
+        "name": "Apprentice Sorcerer (Caster(1))",
+        "id": "41ac-1e04-2245-3e34",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Caster (1)", "id": "41cb-de6a-f288-5f5b", "hidden": false, "targetId": "a216-f909-b23a-327b", "type": "profile"}]
+      },
+      {
+        "name": "Swashbuckling Menace (Rapid Charge Mark)",
+        "id": "acbe-ae09-7f15-b486",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Rapid Charge Mark", "id": "7e5e-f34b-a2bb-b7e6", "hidden": false, "targetId": "4fdb-da92-d2e7-51a6", "type": "profile"},
+          {"name": "Rapid Charge", "id": "8950-faf7-7b5e-cba6", "hidden": false, "targetId": "f28e-3205-7c74-bfa5", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Boarding Attack (Retreating Strike(3))",
+        "id": "00dd-a082-d664-cc8c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Retreating Strike (3)", "id": "1c6e-6981-153e-4786", "hidden": false, "targetId": "0ac9-1d2d-6cb2-1747", "type": "profile"}]
+      },
+      {
+        "name": "Beast Master (Unpredictable Fighter)",
+        "id": "d5ac-c505-7a58-49e2",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Unpredictable Fighter", "id": "3aec-43df-b32c-bb04", "hidden": false, "targetId": "3c56-1e99-8606-9686", "type": "profile"}]
+      },
+      {
+        "name": "Breath Attack",
+        "id": "6734-32d7-6db1-b645",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Breath Attack", "id": "8bde-7c8a-0319-a799", "hidden": false, "targetId": "b7c6-43c9-fa23-871f", "type": "profile"},
+          {"name": "Blast", "id": "ee51-07cf-1ac2-1a4c", "hidden": false, "targetId": "w_vX0mi58KKt", "type": "profile"}
+        ]
+      }
+    ]
+  }
+}

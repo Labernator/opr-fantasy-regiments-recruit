@@ -1,0 +1,147 @@
+{
+  "gameSystem": {
+    "name": "opr-recruit",
+    "id": "sys-1c44-ba44-55bb-92fa",
+    "authorContact": "Discord: marius_42123",
+    "authorName": "Marius",
+    "authorUrl": "www.newrecruit.eu",
+    "battleScribeVersion": "2.03",
+    "library": true,
+    "readme": "official OPR support can be found on https://army-forge.onepagerules.com/",
+    "revision": 1,
+    "type": "gameSystem",
+    "categoryEntries": [
+      {"name": "Heroes", "id": "f2ae-b443-c942-7f64", "hidden": false, "primary": true},
+      {"name": "Core Units", "id": "8fa9-66b7-8347-6a5f", "hidden": false, "primary": true},
+      {"name": "Light Vehicles / Small Monsters", "id": "a368-e6d7-5986-0bde", "hidden": false, "primary": true},
+      {"name": "Vehicles / Monsters", "id": "a395-b6d2-a116-4cdb", "hidden": false, "primary": true},
+      {"name": "Artillery", "id": "5332-8d00-ce6c-e97f", "hidden": false, "primary": true},
+      {"name": "Faction: Dark Elves", "id": "1e8f-c6f1-d0aa-f3c9", "hidden": true},
+      {"name": "Units", "id": "c5a1-0001-d00d-0001", "hidden": true}
+    ],
+    "costTypes": [{"name": "pts", "id": "f61f-dea7-5994-4a92", "defaultCostLimit": 750}],
+    "forceEntries": [
+      {
+        "name": "Force Organisation",
+        "id": "2db6-c01f-eb4c-d8dd",
+        "hidden": false,
+        "categoryLinks": [
+          {"name": "Artillery", "id": "6338-ba81-f924-471a", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"},
+          {"name": "Core Units", "id": "6803-89b3-634c-19d9", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Heroes", "id": "3c1f-1a19-39d9-b19c", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"},
+          {"name": "Light Vehicles / Small Monsters", "id": "5530-efd8-951c-b972", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
+          {"name": "Vehicles / Monsters", "id": "34ac-1f59-5dd1-1340", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
+          {
+            "name": "Heroes",
+            "id": "3c1f-1a19-39d9-b19c",
+            "hidden": false,
+            "primary": true,
+            "targetId": "f2ae-b443-c942-7f64",
+            "constraints": [{"id": "c5a1-0002-d00d-0002", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 2}]
+          },
+          {
+            "name": "Units",
+            "id": "c5a1-0003-d00d-0003",
+            "hidden": false,
+            "primary": false,
+            "targetId": "c5a1-0001-d00d-0001",
+            "constraints": [{"id": "c5a1-0004-d00d-0004", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 5}]
+          }
+        ]
+      }
+    ],
+    "profileTypes": [
+      {
+        "name": "Model",
+        "id": "2b92-21f0-d11f-c379",
+        "hidden": false,
+        "kind": "model",
+        "characteristicTypes": [{"name": "Qua", "id": "a4b0-474d-784e-ef6d"}, {"name": "Def", "id": "71cd-3fd6-1491-f35f"}, {"name": "Tough", "id": "f189-96d1-49af-ec67"}]
+      },
+      {"name": "Base", "id": "64bb-3761-6771-0ead", "hidden": false, "characteristicTypes": [{"name": "Base Size", "id": "a424-f648-4c13-278b"}]},
+      {"name": "Unit", "id": "f839-edd9-126a-4c7c", "hidden": false, "characteristicTypes": [{"name": "Unit Size", "id": "708d-4f8f-54c2-9e2b"}]},
+      {"name": "Special Rule", "id": "3557-8ab4-304c-4f6a", "hidden": false, "characteristicTypes": [{"name": "Description", "id": "1eb5-296a-bd06-a87a"}]},
+      {
+        "name": "Weapon",
+        "id": "6c87-d500-88a9-391e",
+        "hidden": false,
+        "characteristicTypes": [
+          {"name": "Rng", "id": "fab9-2a51-bdac-23c6", "defaultValue": "-"},
+          {"name": "ATK", "id": "75d2-2272-05fb-9ced"},
+          {"name": "AP", "id": "0a60-e782-a04a-e6ce"},
+          {"name": "Special Rules", "id": "56a2-97e0-9760-25b7"}
+        ]
+      },
+      {"name": "Weapon Special Rule", "id": "16b9-5fbc-9708-1125", "hidden": false, "characteristicTypes": [{"name": "Description", "id": "6fe7-c31b-ee10-2876"}]},
+      {
+        "name": "Spells",
+        "id": "1499-0c6d-eb35-8779",
+        "hidden": false,
+        "kind": "spell",
+        "characteristicTypes": [{"name": "Spell Tokens", "id": "3956-f433-3f2e-4074"}, {"name": "Description", "id": "f357-4082-566a-1f31"}]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Banner",
+        "id": "ae85-f5fc-8220-4ce4",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "f82b-c557-822c-034a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "profiles": [
+          {
+            "name": "Banner",
+            "id": "7431-bc56-29bd-aafc",
+            "hidden": false,
+            "typeId": "3557-8ab4-304c-4f6a",
+            "typeName": "Special Rule",
+            "characteristics": [{"name": "Description", "$text": "This model and its unit get +1 to morale test rolls.", "typeId": "1eb5-296a-bd06-a87a"}]
+          }
+        ]
+      },
+      {
+        "name": "Musician",
+        "id": "92ce-43a9-4f82-639b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "6d22-059d-e9f6-928a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "profiles": [
+          {
+            "name": "Musician",
+            "id": "4b27-8360-69b4-20a9",
+            "hidden": false,
+            "typeId": "3557-8ab4-304c-4f6a",
+            "typeName": "Special Rule",
+            "characteristics": [{"name": "Description", "$text": "This model and its unit moves +1\" when using move actions.", "typeId": "1eb5-296a-bd06-a87a"}]
+          }
+        ]
+      },
+      {
+        "name": "Sergeant",
+        "id": "570b-0153-36f4-cc56",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "6a81-d9b9-3f00-7cf8", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "profiles": [
+          {
+            "name": "Sergeant",
+            "id": "1663-6348-c8a5-de28",
+            "hidden": false,
+            "typeId": "3557-8ab4-304c-4f6a",
+            "typeName": "Special Rule",
+            "characteristics": [
+              {
+                "name": "Description",
+                "$text": "When this model attacks, unmodified results of 6 to hit deal 1 extra hit (only the original hit counts as a 6 for special rules).",
+                "typeId": "1eb5-296a-bd06-a87a"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
