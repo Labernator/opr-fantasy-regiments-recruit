@@ -17,36 +17,91 @@
       {"name": "Vehicles / Monsters", "id": "a395-b6d2-a116-4cdb", "hidden": false, "primary": true},
       {"name": "Artillery", "id": "5332-8d00-ce6c-e97f", "hidden": false, "primary": true},
       {"name": "Faction: Dark Elves", "id": "1e8f-c6f1-d0aa-f3c9", "hidden": true},
-      {"name": "Units", "id": "c5a1-0001-d00d-0001", "hidden": true}
+      {
+        "name": "Heroes: 1 per 375 pts",
+        "id": "9ab5-461a-e290-bb98",
+        "hidden": true,
+        "constraints": [
+          {
+            "id": "cd26-b68a-e786-ecb9",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 0
+          }
+        ],
+        "modifiers": [
+          {
+            "field": "cd26-b68a-e786-ecb9",
+            "type": "increment",
+            "value": 1,
+            "repeats": [
+              {
+                "id": "f805-b226-996c-cb55",
+                "childId": "any",
+                "field": "limit::f61f-dea7-5994-4a92",
+                "repeats": 1,
+                "roundUp": false,
+                "scope": "roster",
+                "shared": true,
+                "value": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Units: 1 per 150 pts",
+        "id": "9ab5-461a-e290-bb99",
+        "hidden": true,
+        "constraints": [
+          {
+            "id": "cd26-b68a-e786-ecb0",
+            "field": "selections",
+            "includeChildForces": true,
+            "includeChildSelections": true,
+            "scope": "roster",
+            "shared": true,
+            "type": "max",
+            "value": 0
+          }
+        ],
+        "modifiers": [
+          {
+            "field": "cd26-b68a-e786-ecb0",
+            "type": "increment",
+            "value": 1,
+            "repeats": [
+              {
+                "id": "f805-b226-996c-cb56",
+                "childId": "any",
+                "field": "limit::f61f-dea7-5994-4a92",
+                "repeats": 1,
+                "roundUp": false,
+                "scope": "roster",
+                "shared": true,
+                "value": 150
+              }
+            ]
+          }
+        ]
+      }
     ],
-    "costTypes": [{"name": "pts", "id": "f61f-dea7-5994-4a92", "defaultCostLimit": 750}],
+    "costTypes": [{"name": "pts", "id": "f61f-dea7-5994-4a92", "defaultCostLimit": 750}, {"name": "unit", "id": "ad3a-b975-a0ff-de12", "defaultCostLimit": 5, "hidden": true}],
     "forceEntries": [
       {
         "name": "Force Organisation",
         "id": "2db6-c01f-eb4c-d8dd",
         "hidden": false,
         "categoryLinks": [
-          {
-            "name": "Heroes",
-            "id": "3c1f-1a19-39d9-b19c",
-            "hidden": false,
-            "primary": true,
-            "targetId": "f2ae-b443-c942-7f64",
-            "constraints": [{"id": "c5a1-0002-d00d-0002", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 2}]
-          },
-          
+          {"name": "Heroes", "id": "3c1f-1a19-39d9-b19c", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"},
           {"name": "Core Units", "id": "6803-89b3-634c-19d9", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
           {"name": "Light Vehicles / Small Monsters", "id": "5530-efd8-951c-b972", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
           {"name": "Vehicles / Monsters", "id": "34ac-1f59-5dd1-1340", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
-          {"name": "Artillery", "id": "6338-ba81-f924-471a", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"},
-          {
-            "name": "Units",
-            "id": "c5a1-0003-d00d-0003",
-            "hidden": false,
-            "primary": false,
-            "targetId": "c5a1-0001-d00d-0001",
-            "constraints": [{"id": "c5a1-0004-d00d-0004", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 5}]
-          }
+          {"name": "Artillery", "id": "6338-ba81-f924-471a", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"}
         ]
       }
     ],

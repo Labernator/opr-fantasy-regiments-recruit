@@ -232,7 +232,9 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "5dab-c312-c4fc-0c24", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Heroes", "id": "ce0e-aa0f-0586-4ce2", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"}
+          {"name": "Heroes", "id": "ce0e-aa0f-0586-4ce2", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"},
+          {"name": "Heroes: 1 per 375 pts", "id": "dfb5-5921-6ba8-3207", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb98"},
+          {"name": "Units: 1 per 150 pts", "id": "dfb5-5921-6ba8-3208", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -270,7 +272,7 @@
         ],
         "profiles": [
           {
-            "name": "Dark Captain",
+            "name": "Champion",
             "id": "cc2c-1769-6288-12a8",
             "hidden": false,
             "typeId": "f839-edd9-126a-4c7c",
@@ -293,7 +295,7 @@
               {"id": "e1cd-ae43-ffe6-d78b", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
               {"id": "84d1-fcaa-5bb1-7e3b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
-            "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 35}],
+            "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 35}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
             "profiles": [
               {
                 "name": "Champion",
@@ -773,7 +775,9 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "44d3-abf7-9a6d-67ba", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Heroes", "id": "baf8-9556-a82c-1acc", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"}
+          {"name": "Heroes", "id": "baf8-9556-a82c-1acc", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"},
+          {"name": "Units: 1 per 150 pts", "id": "325f-aaef-d779-d46c", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"},
+          {"name": "Heroes: 1 per 375 pts", "id": "fada-b7fe-77e1-10d3", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb98"}
         ],
         "constraints": [
           {
@@ -835,7 +839,7 @@
               {"id": "d98a-be29-f940-6666", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
               {"id": "84b1-54c3-bae0-7eda", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
-            "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 55}],
+            "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 55}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
             "profiles": [
               {
                 "name": "Dark Captain",
@@ -1383,7 +1387,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "81f5-798b-cbca-edfa", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "27d2-2121-5f5e-6724", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "27d2-2121-5f5e-6724", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "43d5-c15b-6bfe-0016", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -1482,7 +1487,7 @@
                   {"id": "min-size-10", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "max-size-10", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 100}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 100}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Dark Warriors", "id": "3d7a-91c4-e0b2-58f6", "hidden": false, "targetId": "62bf-835a-80fc-c198", "type": "profile"}]
               },
               {
@@ -1494,7 +1499,7 @@
                   {"id": "min-size-20", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "max-size-20", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 200}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 200}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Dark Warriors", "id": "a84e-2b60-7c19-d3f5", "hidden": false, "targetId": "62bf-835a-80fc-c198", "type": "profile"}]
               },
               {
@@ -1506,8 +1511,16 @@
                   {"id": "min-size-30", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "max-size-30", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}],
-                "infoLinks": [{"name": "Dark Warriors", "id": "f10c-6e93-4a85-b27d", "hidden": false, "targetId": "62bf-835a-80fc-c198", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Dark Warriors", "id": "f10c-6e93-4a85-b27d", "hidden": false, "targetId": "62bf-835a-80fc-c198", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -1853,7 +1866,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "284f-f5e5-db59-1d78", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "defd-a199-69c1-4809", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "defd-a199-69c1-4809", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "b8ae-cc76-de83-d70b", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -1970,7 +1984,7 @@
                   {"id": "0b69-3f38-3ca7-ebf0", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "bb7e-88a3-e2ba-5137", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 80}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 80}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Harpies", "id": "aa44-2810-7509-bf59", "hidden": false, "targetId": "7f28-475e-0bd2-e72d", "type": "profile"}]
               },
               {
@@ -1982,7 +1996,7 @@
                   {"id": "0377-04fe-fc78-8f6e", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "1b54-e823-4be0-adb8", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 160}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 160}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Harpies", "id": "5c98-da13-28d1-c544", "hidden": false, "targetId": "7f28-475e-0bd2-e72d", "type": "profile"}]
               },
               {
@@ -1994,7 +2008,7 @@
                   {"id": "5d0a-7896-438d-bd1c", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "2712-3b6f-2090-bbd8", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 240}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 240}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
                 "infoLinks": [{"name": "Harpies", "id": "d0d7-72c8-7b3a-358c", "hidden": false, "targetId": "7f28-475e-0bd2-e72d", "type": "profile"}]
               }
             ]
@@ -2064,7 +2078,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "781e-726d-e237-0804", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "e120-a7db-01b1-8b54", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "e120-a7db-01b1-8b54", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "8a9e-f508-fe35-1ae2", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -2177,7 +2192,7 @@
                   {"id": "33c3-89d3-625c-8407", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "5693-d726-4fd9-cdbe", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 80}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 80}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Witches", "id": "8a70-ccb5-93eb-3a54", "hidden": false, "targetId": "8232-3d0a-8ae4-a999", "type": "profile"}]
               },
               {
@@ -2189,7 +2204,7 @@
                   {"id": "3db3-037a-74b2-1790", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "2403-b346-3d07-3e1e", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 160}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 160}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Witches", "id": "3d3e-5cc0-61ff-c341", "hidden": false, "targetId": "8232-3d0a-8ae4-a999", "type": "profile"}]
               },
               {
@@ -2201,7 +2216,7 @@
                   {"id": "f900-cfdb-e9de-760f", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "cf06-9191-f189-0f7a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 240}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 240}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
                 "infoLinks": [{"name": "Witches", "id": "0dd2-9590-d984-bf2f", "hidden": false, "targetId": "8232-3d0a-8ae4-a999", "type": "profile"}]
               }
             ]
@@ -2272,7 +2287,7 @@
                   {
                     "field": "f61f-dea7-5994-4a92",
                     "type": "set",
-                    "value": 10,
+                    "value": 20,
                     "conditions": [
                       {
                         "childId": "9fbd-dd0e-c7bb-f5da",
@@ -2289,7 +2304,7 @@
                   {
                     "field": "f61f-dea7-5994-4a92",
                     "type": "set",
-                    "value": 15,
+                    "value": 30,
                     "conditions": [
                       {
                         "childId": "ba21-e573-4904-0c60",
@@ -2525,7 +2540,9 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "b03f-fe49-8c9b-feac", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Heroes", "id": "4086-9713-36da-31fe", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"}
+          {"name": "Heroes", "id": "4086-9713-36da-31fe", "hidden": false, "primary": true, "targetId": "f2ae-b443-c942-7f64"},
+          {"name": "Units: 1 per 150 pts", "id": "6ef2-456f-56dd-3636", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"},
+          {"name": "Heroes: 1 per 375 pts", "id": "5a2b-9947-a9ff-c745", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb98"}
         ],
         "constraints": [
           {
@@ -2574,7 +2591,7 @@
               {"id": "3e18-0b29-76d8-5363", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
               {"id": "65b4-2c08-25f7-363f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
-            "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 120}],
+            "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 120}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
             "profiles": [
               {
                 "name": "Snake Lady",
@@ -2738,7 +2755,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "3f73-3820-fd0b-4c9a", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "6a89-db7c-1853-029b", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "6a89-db7c-1853-029b", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "26d1-f6ea-8a4f-260e", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -2804,7 +2822,7 @@
                   {"id": "ea86-7e3c-6731-d914", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "913d-06d7-e581-a1b1", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 85}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 80}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Corsairs", "id": "e339-2496-35fe-2b00", "hidden": false, "targetId": "4473-0684-cf1d-77f0", "type": "profile"}]
               },
               {
@@ -2816,7 +2834,7 @@
                   {"id": "9a7c-e88d-bbe6-6d20", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "58a3-f188-1316-0bd6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 170}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 160}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Corsairs", "id": "d1ef-1dae-6ef4-17d2", "hidden": false, "targetId": "4473-0684-cf1d-77f0", "type": "profile"}]
               },
               {
@@ -2828,7 +2846,7 @@
                   {"id": "0920-93f6-04ed-a482", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "167c-8a82-80da-82b7", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 255}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 240}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
                 "infoLinks": [{"name": "Corsairs", "id": "45e1-99b4-87d6-beef", "hidden": false, "targetId": "4473-0684-cf1d-77f0", "type": "profile"}]
               }
             ]
@@ -2986,22 +3004,90 @@
                 "id": "d9a1-1940-5121-e9b2",
                 "hidden": false,
                 "import": true,
-                "sortIndex": 1,
+                "sortIndex": 2,
                 "targetId": "9bd0-20f6-a00c-5cb8",
                 "type": "selectionEntry",
                 "constraints": [{"id": "731b-6330-665a-aad3", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 25}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 55}],
+                "modifiers": [
+                  {
+                    "field": "f61f-dea7-5994-4a92",
+                    "type": "cumulative-multiply",
+                    "value": 2,
+                    "conditions": [
+                      {
+                        "childId": "8532-cd57-fbe6-1ff6",
+                        "childName": "10 Corsairs",
+                        "field": "selections",
+                        "scope": "7b52-ac9b-4e77-c087",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "field": "f61f-dea7-5994-4a92",
+                    "type": "cumulative-multiply",
+                    "value": 3,
+                    "conditions": [
+                      {
+                        "childId": "dc66-f27e-4fbb-84fb",
+                        "childName": "15 Corsairs",
+                        "field": "selections",
+                        "scope": "7b52-ac9b-4e77-c087",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
               },
               {
                 "name": "Dark Handbow (12\", A2, Lacerate)",
                 "id": "0985-2d63-506b-50a2",
                 "hidden": false,
                 "import": true,
-                "sortIndex": 2,
+                "sortIndex": 1,
                 "targetId": "06bf-9c6f-98a1-05eb",
                 "type": "selectionEntry",
                 "constraints": [{"id": "4723-8192-491e-6a79", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 25}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 25}],
+                "modifiers": [
+                  {
+                    "field": "f61f-dea7-5994-4a92",
+                    "type": "cumulative-multiply",
+                    "value": 3,
+                    "conditions": [
+                      {
+                        "childId": "dc66-f27e-4fbb-84fb",
+                        "childName": "15 Corsairs",
+                        "field": "selections",
+                        "scope": "7b52-ac9b-4e77-c087",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "field": "f61f-dea7-5994-4a92",
+                    "type": "cumulative-multiply",
+                    "value": 2,
+                    "conditions": [
+                      {
+                        "childId": "8532-cd57-fbe6-1ff6",
+                        "childName": "10 Corsairs",
+                        "field": "selections",
+                        "scope": "7b52-ac9b-4e77-c087",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
@@ -3015,7 +3101,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "6f68-c9b8-59da-8b16", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "5a04-77fd-5ba2-d916", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "5a04-77fd-5ba2-d916", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "f008-c5f1-92ee-da1b", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -3070,7 +3157,7 @@
                   {"id": "471f-6d04-6727-aac1", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "a388-4187-b5da-f8f3", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 95}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 95}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Winged Sisters", "id": "db05-1c8e-3701-83fc", "hidden": false, "targetId": "ab4e-a293-c00d-2efd", "type": "profile"}]
               },
               {
@@ -3082,7 +3169,7 @@
                   {"id": "bc17-b020-6dd9-4bc7", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "dce4-39c3-ada3-9475", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 190}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 190}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Winged Sisters", "id": "ea95-1d28-44c7-ce8f", "hidden": false, "targetId": "ab4e-a293-c00d-2efd", "type": "profile"}]
               },
               {
@@ -3094,7 +3181,7 @@
                   {"id": "e13b-1077-a869-5e9f", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "3deb-f00b-7628-060d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 285}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 285}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
                 "infoLinks": [{"name": "Winged Sisters", "id": "6d8f-e094-cb5c-228a", "hidden": false, "targetId": "ab4e-a293-c00d-2efd", "type": "profile"}]
               }
             ]
@@ -3293,7 +3380,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "1fae-04bf-0536-6a4f", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "41ed-e8de-8208-f30a", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "41ed-e8de-8208-f30a", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "ecbc-aa9e-ef64-5f74", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -3348,7 +3436,7 @@
                   {"id": "c581-aa52-e9df-bce7", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "a4ba-1012-b068-9f4f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 100}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 100}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Executioners", "id": "f112-336f-18c0-5f17", "hidden": false, "targetId": "7f27-eccb-f8fb-0c7f", "type": "profile"}]
               },
               {
@@ -3360,7 +3448,7 @@
                   {"id": "6e4e-8dbe-448c-dd0f", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "ea6c-32bf-9098-4e94", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 200}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 200}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Executioners", "id": "5f4b-4214-bad8-f65c", "hidden": false, "targetId": "7f27-eccb-f8fb-0c7f", "type": "profile"}]
               },
               {
@@ -3372,8 +3460,16 @@
                   {"id": "854e-493c-47d9-402d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "1620-9751-2e3f-32d5", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}],
-                "infoLinks": [{"name": "Executioners", "id": "03a8-a997-3231-ec8f", "hidden": false, "targetId": "7f27-eccb-f8fb-0c7f", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Executioners", "id": "03a8-a997-3231-ec8f", "hidden": false, "targetId": "7f27-eccb-f8fb-0c7f", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -3502,7 +3598,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "f335-7691-7a34-1054", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "f90a-72b2-6898-7184", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "f90a-72b2-6898-7184", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "1439-619c-eb22-8f31", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -3557,7 +3654,7 @@
                   {"id": "075d-db22-5e24-7caf", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "5397-0470-99d5-5738", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 110}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 110}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Slaughter Sisters", "id": "ba70-b6f1-60b5-138f", "hidden": false, "targetId": "61bc-df00-2623-06d5", "type": "profile"}]
               },
               {
@@ -3569,7 +3666,7 @@
                   {"id": "4686-0585-9080-474e", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "1c7a-c1f9-b226-de95", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 220}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 220}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Slaughter Sisters", "id": "b84b-bb88-496b-c2ef", "hidden": false, "targetId": "61bc-df00-2623-06d5", "type": "profile"}]
               },
               {
@@ -3581,8 +3678,16 @@
                   {"id": "7eaa-f0d4-1460-9b06", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "89df-5f0e-1195-17fa", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 330}],
-                "infoLinks": [{"name": "Slaughter Sisters", "id": "2dda-d612-05a9-b9b3", "hidden": false, "targetId": "61bc-df00-2623-06d5", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 330}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Slaughter Sisters", "id": "2dda-d612-05a9-b9b3", "hidden": false, "targetId": "61bc-df00-2623-06d5", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -3711,7 +3816,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "c735-9710-7834-f039", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "d5dc-2173-3e69-00e3", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "d5dc-2173-3e69-00e3", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "c67c-51e5-7e1e-3721", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -3766,7 +3872,7 @@
                   {"id": "26d6-275a-ce9e-5efe", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "4382-318b-79b8-01e5", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 105}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 105}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Black Guardians", "id": "4119-5ba6-54aa-5b7c", "hidden": false, "targetId": "cf94-8499-2d13-4503", "type": "profile"}]
               },
               {
@@ -3778,7 +3884,7 @@
                   {"id": "54b9-6f3d-5cf3-56a3", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "c560-f40e-eb7f-f535", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 210}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 210}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Black Guardians", "id": "99ca-24f1-af23-6bb0", "hidden": false, "targetId": "cf94-8499-2d13-4503", "type": "profile"}]
               },
               {
@@ -3790,8 +3896,16 @@
                   {"id": "83fb-536d-be21-95aa", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "8552-35c6-9705-f90a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 315}],
-                "infoLinks": [{"name": "Black Guardians", "id": "6e78-e4cc-6eed-abb7", "hidden": false, "targetId": "cf94-8499-2d13-4503", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 315}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Black Guardians", "id": "6e78-e4cc-6eed-abb7", "hidden": false, "targetId": "cf94-8499-2d13-4503", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -3920,7 +4034,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "f5a6-70ba-6d41-4435", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "76e9-12b0-c03c-2767", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "76e9-12b0-c03c-2767", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "0294-5f10-401e-693d", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -3975,7 +4090,7 @@
                   {"id": "f954-800f-1b1b-5b4a", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "d370-871f-5a22-b056", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 140}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 140}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Dark Shooters", "id": "d392-6775-2bcb-1ef2", "hidden": false, "targetId": "60c9-6361-6016-9ac2", "type": "profile"}]
               },
               {
@@ -3987,8 +4102,16 @@
                   {"id": "755e-e686-bc4a-b6dc", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "e651-8561-dae4-760e", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 280}],
-                "infoLinks": [{"name": "Dark Shooters", "id": "1492-d502-59d5-ed8c", "hidden": false, "targetId": "60c9-6361-6016-9ac2", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 280}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
+                "infoLinks": [{"name": "Dark Shooters", "id": "1492-d502-59d5-ed8c", "hidden": false, "targetId": "60c9-6361-6016-9ac2", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               },
               {
                 "name": "15 Dark Shooters",
@@ -3999,8 +4122,16 @@
                   {"id": "3bf7-01ff-3d7c-0270", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "74ff-4db7-3fc3-87a6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 420}],
-                "infoLinks": [{"name": "Dark Shooters", "id": "ca6f-5054-b35f-d9cc", "hidden": false, "targetId": "60c9-6361-6016-9ac2", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 420}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Dark Shooters", "id": "ca6f-5054-b35f-d9cc", "hidden": false, "targetId": "60c9-6361-6016-9ac2", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -4142,7 +4273,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "d876-9dbe-576b-61d6", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "9866-9a44-9597-68fd", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "9866-9a44-9597-68fd", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "c331-4de8-4beb-537a", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -4197,7 +4329,7 @@
                   {"id": "f306-d8fe-330d-cfd9", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "338c-966f-ae98-c900", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 150}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 150}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Shade Scouts", "id": "0665-d839-030f-b732", "hidden": false, "targetId": "2c0b-0863-9ac6-7031", "type": "profile"}]
               },
               {
@@ -4209,8 +4341,16 @@
                   {"id": "1c2f-7547-033a-8db2", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "2619-5d04-36f6-b9a6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}],
-                "infoLinks": [{"name": "Shade Scouts", "id": "4c7a-98e9-4ee9-0e3c", "hidden": false, "targetId": "2c0b-0863-9ac6-7031", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
+                "infoLinks": [{"name": "Shade Scouts", "id": "4c7a-98e9-4ee9-0e3c", "hidden": false, "targetId": "2c0b-0863-9ac6-7031", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               },
               {
                 "name": "15 Shade Scouts",
@@ -4221,8 +4361,16 @@
                   {"id": "fde7-ee2e-324a-86b1", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "54df-89d3-5a99-e778", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 450}],
-                "infoLinks": [{"name": "Shade Scouts", "id": "81bd-16da-60b9-bcbc", "hidden": false, "targetId": "2c0b-0863-9ac6-7031", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 450}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Shade Scouts", "id": "81bd-16da-60b9-bcbc", "hidden": false, "targetId": "2c0b-0863-9ac6-7031", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -4364,7 +4512,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "a2eb-6cef-be99-ef19", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "05d5-b861-c2dc-07db", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "05d5-b861-c2dc-07db", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "5023-2b35-64c6-b7af", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -4419,7 +4568,7 @@
                   {"id": "abda-5f80-f797-1470", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "970d-d340-d4a2-3c91", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 185}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 185}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Snake Sisters", "id": "25ce-a160-48e1-ec35", "hidden": false, "targetId": "1251-1106-e81c-103c", "type": "profile"}]
               },
               {
@@ -4431,8 +4580,16 @@
                   {"id": "13c2-964c-285b-38ca", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "0a6b-f729-54f4-6085", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 370}],
-                "infoLinks": [{"name": "Snake Sisters", "id": "9ddb-e31d-666d-1fa1", "hidden": false, "targetId": "1251-1106-e81c-103c", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 370}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
+                "infoLinks": [{"name": "Snake Sisters", "id": "9ddb-e31d-666d-1fa1", "hidden": false, "targetId": "1251-1106-e81c-103c", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               },
               {
                 "name": "9 Snake Sisters",
@@ -4443,8 +4600,16 @@
                   {"id": "defa-bfc4-de47-5e70", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "73ae-061b-1b69-9c7c", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 555}],
-                "infoLinks": [{"name": "Snake Sisters", "id": "469f-9757-0941-92ac", "hidden": false, "targetId": "1251-1106-e81c-103c", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 555}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Snake Sisters", "id": "469f-9757-0941-92ac", "hidden": false, "targetId": "1251-1106-e81c-103c", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -4491,6 +4656,40 @@
                     ]
                   }
                 ],
+                "modifiers": [
+                  {
+                    "field": "f61f-dea7-5994-4a92",
+                    "type": "cumulative-multiply",
+                    "value": 2,
+                    "conditions": [
+                      {
+                        "childId": "3944-2db3-6322-0185",
+                        "childName": "6 Snake Sisters",
+                        "field": "selections",
+                        "scope": "293f-205d-49a4-ade0",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  },
+                  {
+                    "field": "f61f-dea7-5994-4a92",
+                    "type": "cumulative-multiply",
+                    "value": 3,
+                    "conditions": [
+                      {
+                        "childId": "df79-2cad-39ac-e7e0",
+                        "childName": "9 Snake Sisters",
+                        "field": "selections",
+                        "scope": "293f-205d-49a4-ade0",
+                        "shared": true,
+                        "type": "atLeast",
+                        "value": 1
+                      }
+                    ]
+                  }
+                ],
                 "profiles": [
                   {
                     "name": "Hand Weapon",
@@ -4519,7 +4718,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "febc-444a-e575-ed7b", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "9d14-468b-91e6-d7ff", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "9d14-468b-91e6-d7ff", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "f61a-d95b-aedb-4c09", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -4574,7 +4774,7 @@
                   {"id": "4853-f7de-dc8c-2e54", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "5cb4-4c68-73fe-e128", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 95}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 95}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Warlock Riders", "id": "36b2-7904-2b46-4747", "hidden": false, "targetId": "dacc-22ab-3f54-5bed", "type": "profile"}]
               },
               {
@@ -4586,7 +4786,7 @@
                   {"id": "a0c2-7d86-86cf-9157", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "594e-803c-da69-c5d6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 190}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 190}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Warlock Riders", "id": "c439-7aae-64a0-d301", "hidden": false, "targetId": "dacc-22ab-3f54-5bed", "type": "profile"}]
               },
               {
@@ -4598,7 +4798,7 @@
                   {"id": "57d6-0ab5-c6df-ab1d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "6c7b-9e09-5ea9-8edd", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 285}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 285}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
                 "infoLinks": [{"name": "Warlock Riders", "id": "f6f8-5b49-ba24-152c", "hidden": false, "targetId": "dacc-22ab-3f54-5bed", "type": "profile"}]
               }
             ]
@@ -4769,7 +4969,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "7f9f-27c7-609b-7438", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "35a4-0ea1-7d25-e705", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "35a4-0ea1-7d25-e705", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "e540-72b5-cf07-f6cd", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -4835,7 +5036,7 @@
                   {"id": "e604-e1e2-a400-0115", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "eeb6-d328-144d-e9a0", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 100}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 100}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 1}],
                 "infoLinks": [{"name": "Dark Horsemen", "id": "15ac-3750-f5aa-eb9c", "hidden": false, "targetId": "a67d-69f1-3cbf-080f", "type": "profile"}]
               },
               {
@@ -4847,7 +5048,7 @@
                   {"id": "a520-e64f-c194-f54e", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "b7c2-dfee-2a57-776b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 200}],
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 200}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 2}],
                 "infoLinks": [{"name": "Dark Horsemen", "id": "653f-cc62-70e7-6cda", "hidden": false, "targetId": "a67d-69f1-3cbf-080f", "type": "profile"}]
               },
               {
@@ -4859,8 +5060,16 @@
                   {"id": "980c-fb02-4aca-d165", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 0},
                   {"id": "8c26-84fe-eddf-29cf", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
-                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}],
-                "infoLinks": [{"name": "Dark Horsemen", "id": "30fe-028a-b214-0f70", "hidden": false, "targetId": "a67d-69f1-3cbf-080f", "type": "profile"}]
+                "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 300}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 3}],
+                "infoLinks": [{"name": "Dark Horsemen", "id": "30fe-028a-b214-0f70", "hidden": false, "targetId": "a67d-69f1-3cbf-080f", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -5043,7 +5252,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "91d2-33e7-806b-8848", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Core Units", "id": "bfe7-55c8-0b95-0863", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"}
+          {"name": "Core Units", "id": "bfe7-55c8-0b95-0863", "hidden": false, "primary": true, "targetId": "8fa9-66b7-8347-6a5f"},
+          {"name": "Units: 1 per 150 pts", "id": "4570-4e35-05b8-79bd", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -5111,7 +5321,15 @@
                   {"id": "d7ad-2163-0ce3-481f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 290}],
-                "infoLinks": [{"name": "Raptor Knights", "id": "66bc-0171-b5f9-16d5", "hidden": false, "targetId": "5844-d826-e03d-b5eb", "type": "profile"}]
+                "infoLinks": [{"name": "Raptor Knights", "id": "66bc-0171-b5f9-16d5", "hidden": false, "targetId": "5844-d826-e03d-b5eb", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               },
               {
                 "name": "15 Raptor Knights",
@@ -5123,7 +5341,15 @@
                   {"id": "b978-b4cf-56e6-b663", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 435}],
-                "infoLinks": [{"name": "Raptor Knights", "id": "97b1-2842-6225-5fe4", "hidden": false, "targetId": "5844-d826-e03d-b5eb", "type": "profile"}]
+                "infoLinks": [{"name": "Raptor Knights", "id": "97b1-2842-6225-5fe4", "hidden": false, "targetId": "5844-d826-e03d-b5eb", "type": "profile"}],
+                "modifiers": [
+                  {
+                    "field": "hidden",
+                    "type": "set",
+                    "value": true,
+                    "conditions": [{"field": "limit::f61f-dea7-5994-4a92", "percentValue": true, "scope": "self", "shared": true, "type": "greaterThan", "value": 35}]
+                  }
+                ]
               }
             ]
           },
@@ -5252,7 +5478,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "589c-c2d2-6d52-3039", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Light Vehicles / Small Monsters", "id": "fd3b-0b4f-89d6-bfae", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"}
+          {"name": "Light Vehicles / Small Monsters", "id": "fd3b-0b4f-89d6-bfae", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
+          {"name": "Units: 1 per 150 pts", "id": "2482-4356-ca31-d51c", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -5371,7 +5598,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "1936-632b-98c8-8df8", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Vehicles / Monsters", "id": "78a4-a8ec-1ed5-f6c0", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"}
+          {"name": "Vehicles / Monsters", "id": "78a4-a8ec-1ed5-f6c0", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
+          {"name": "Units: 1 per 150 pts", "id": "2ac2-88fa-9b12-7ed2", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -5518,7 +5746,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "0e53-8f29-10de-b46e", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Vehicles / Monsters", "id": "a945-5ac9-18b8-1860", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"}
+          {"name": "Vehicles / Monsters", "id": "a945-5ac9-18b8-1860", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
+          {"name": "Units: 1 per 150 pts", "id": "abba-e88e-a1e2-0a61", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -5665,7 +5894,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "b422-e1f5-1409-fa10", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Light Vehicles / Small Monsters", "id": "47b6-1039-0e3c-d36c", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"}
+          {"name": "Light Vehicles / Small Monsters", "id": "47b6-1039-0e3c-d36c", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
+          {"name": "Units: 1 per 150 pts", "id": "7ba7-229f-5fc5-daf6", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -5833,7 +6063,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "c60c-def3-acde-c9bd", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Light Vehicles / Small Monsters", "id": "1147-84b1-7f3e-24ec", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"}
+          {"name": "Light Vehicles / Small Monsters", "id": "1147-84b1-7f3e-24ec", "hidden": false, "primary": true, "targetId": "a368-e6d7-5986-0bde"},
+          {"name": "Units: 1 per 150 pts", "id": "db67-29c6-bd2a-dbb3", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -5991,7 +6222,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "9663-77b7-4e6f-dcff", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Vehicles / Monsters", "id": "55b3-1745-a90d-234c", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"}
+          {"name": "Vehicles / Monsters", "id": "55b3-1745-a90d-234c", "hidden": false, "primary": true, "targetId": "a395-b6d2-a116-4cdb"},
+          {"name": "Units: 1 per 150 pts", "id": "ba19-e58e-364a-4c73", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
@@ -6137,7 +6369,8 @@
         "type": "unit",
         "categoryLinks": [
           {"name": "Faction: Dark Elves", "id": "e7fa-58a6-5c99-d4fb", "hidden": false, "primary": false, "targetId": "1e8f-c6f1-d0aa-f3c9"},
-          {"name": "Artillery", "id": "9e2a-e293-1e2c-e6a9", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"}
+          {"name": "Artillery", "id": "9e2a-e293-1e2c-e6a9", "hidden": false, "primary": true, "targetId": "5332-8d00-ce6c-e97f"},
+          {"name": "Units: 1 per 150 pts", "id": "6b74-bc7e-6fff-ca70", "hidden": false, "primary": false, "targetId": "9ab5-461a-e290-bb99"}
         ],
         "constraints": [
           {
