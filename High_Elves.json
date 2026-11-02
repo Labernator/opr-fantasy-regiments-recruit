@@ -1,0 +1,12 @@
+{
+  "catalogue": {
+    "name": "High Elves",
+    "id": "b3d9-cdad-2ee9-3b10",
+    "battleScribeVersion": "2.03",
+    "gameSystemId": "sys-1c44-ba44-55bb-92fa",
+    "gameSystemRevision": 1,
+    "library": false,
+    "revision": 1,
+    "type": "catalogue"
+  }
+}

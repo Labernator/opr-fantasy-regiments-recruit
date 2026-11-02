@@ -88,7 +88,8 @@
             ]
           }
         ]
-      }
+      },
+      {"name": "Faction: Vampiric Undead", "id": "9c5e-1413-7294-cf31", "hidden": true}
     ],
     "costTypes": [{"name": "pts", "id": "f61f-dea7-5994-4a92", "defaultCostLimit": 750}, {"name": "unit", "id": "ad3a-b975-a0ff-de12", "defaultCostLimit": 5, "hidden": true}],
     "forceEntries": [

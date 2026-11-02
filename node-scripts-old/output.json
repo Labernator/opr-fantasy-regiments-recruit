@@ -516,5 +516,551 @@
         "typeId": "1eb5-296a-bd06-a87a"
       }
     ]
+  },
+  {
+    "name": "Highborn",
+    "id": "5bc5xNmd5M14",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model gets +4\"/+2\" range when shooting/charging.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Shielded Aura",
+    "id": "ZW_Zv-kkBt2q",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model and its unit get Shielded.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Highborn",
+    "id": "6Nn0oPQN3TZc",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "If this model has Highborn, it gets +8\"/+4\" range when shooting/charging from Highborn (instead of only +4\"/+2\").",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Vanguard",
+    "id": "r8OBuam8nRXP",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "After this model is deployed, it may be placed anywhere fully within 9\" of its position, over 9\" away from non-Vanguard enemy units.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Sergeant",
+    "id": "8HWdOwMYcI0p",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model gets AP(+1) when attacking.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Armor",
+    "id": "74RjQ1k41DoO",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Counts as having Defense X+.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Bane when Shooting",
+    "id": "uHus35IJKri2",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model gets Bane on its weapons when shooting.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Highborn Aura",
+    "id": "UVyi54SgbOoz",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model and its unit get Enhanced Highborn.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Hit & Run",
+    "id": "ozCLWcof36wD",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Once per round, this model may move by up to 3\" after shooting or being in melee.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Shred in Melee Aura",
+    "id": "muH3OhuC6eK4",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model and its unit get Shred on its weapons in melee.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Relentless Aura",
+    "id": "zGew9XZT2rUm",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model and its unit get Relentless.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Fearless Aura",
+    "id": "C0UHMLhvoXXj",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model and its unit get Fearless.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Bounding",
+    "id": "h9JsgD38BRjI",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When this unit is activated, you may move all models with this rule in it by up to D3+1\".",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Slayer",
+    "id": "27DHOeVHMwrj",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When using Hold actions and shooting, or when charging, this model's weapons get AP(+2) if most models in the target have Tough(3) or higher.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Quick Shot",
+    "id": "ykPufsAeq8Kw",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "If most models in this unit have this rule, they may use Rush actions to move sideways or backward (by up to half their move), and may shoot after using Rush actions.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Anti-Cover",
+    "id": "efmjJPTe0Yzd",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This weapon ignores Cover.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Spell Conduit",
+    "id": "WNMH1ZiQXSz-",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Casters within 12\" that are from other friendly units may cast spells as if they were in this model's position, and get +1 to casting rolls when doing so. Friendly casters may only use this rule if this unit isn't Shaken.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Spell Resistance",
+    "id": "h-Cj1XrX00JE",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When a unit where most models have this rule takes wounds, roll one die for each. If the wound was from a spell, then it is ignored on a 2+. If the wound was not from a spell, then it is ignored on a 6+ instead.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Cumbersome",
+    "id": "n8Uql4fyd5AX",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "May only use Hold or Advance actions, but can’t shoot when moving.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Piercing Tag",
+    "id": "B9OEkYUQsxvt",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Once per game, during this model's activation, before attacking, place X tokens on one enemy unit within 24\" and in line of sight, or one token on X enemy units within 24\" and in line of sight. When attacking, friendly units may remove one token from their target before rolling to block to get AP(+1) on their weapons.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Fracture",
+    "id": "JSnFcm3SCiMD",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "For each unmodified result of 6 to hit, those hits get AP(+2).",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Precision Debuff",
+    "id": "1elLRhGK7ETb",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Once per activation, before attacking, pick one enemy unit within 18\" in line of sight, which gets -1 to hit rolls when attacking once (next time the effect would apply).",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Crossing Strike",
+    "id": "Hdm9ry6kJvzb",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Once per activation, when this model moves through enemy units, pick one of them and attack it with this weapon as if it was shooting. This weapon may only be used in this way.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Unstoppable",
+    "id": "QXyt-zV_bjpg",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This weapon ignores Regeneration, and ignores all negative modifiers which are not from this model's special rules.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Precision Shooting Mark",
+    "id": "EJ349mpTVrP5",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Once per activation, before attacking, pick one enemy unit within 18\" in line of sight, which friendly units get +1 to hit rolls when shooting against once (next time the effect would apply).",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Extra Reach",
+    "id": "CJ2mI46Tp-al",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model gets +4\"/+2\" range when shooting/charging.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Enhanced Extra Reach",
+    "id": "NX1-Y1zS-oUD",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "If this model has Extra Reach, it gets +8\"/+4\" range when shooting/charging from Extra Reach (instead of only +4\"/+2\").",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Shielded",
+    "id": "wsqfB0fq69eG",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Units where most models have this rule get +1 to Defense rolls against hits that are not from spells.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "AP",
+    "id": "CQes0mDvF4bV",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "AP",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Defense",
+    "id": "s6MgSfmgylXU",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model gets +X to Defense rolls.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Bane",
+    "id": "Naqc5mga9Uha",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Ignores Regeneration, and when attacking, the target must re-roll unmodified Defense results of 6.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Shred",
+    "id": "IEJp3a4vE0CB",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "For each unmodified result of 1 to block hits, this weapon deals 1 extra wound.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Relentless",
+    "id": "H9E9PIWpGRdw",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When this model shoots at enemies over 9” away, unmodified result of 6 to hit deal 1 extra hit (only the original hit counts as a 6 for special rules).",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Fear",
+    "id": "dIQ3SGl2J2Ew",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When in melee with this model, enemies count as having taken +X wounds when checking who won.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Fearless",
+    "id": "2atvlmICQSCV",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When a unit where most models have this rule fails a Morale Test, roll one die. On a 4+ it counts as passed instead.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Tough",
+    "id": "a0YtInGiUDd6",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "This model must take X wounds before being killed. If a model with Tough joins a unit without it, then it is removed last when the unit takes wounds. You must continue to put wounds on the Tough model with most wounds in the unit until it is killed, before starting to put them on the next Tough model (Heroes must be assigned wounds last, even if already wounded).",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Caster",
+    "id": "47CAqf7ySlfc",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Gets X spell tokens at the start of each round, but can’t have more than 6 at once. Once per activation, before attacking, spend as many tokens as the spell’s value to try casting one or more spells (only one try per spell). Pick a target and roll one die, and on 4+ resolve the spell’s effect. Models within 18” of the Caster may spend any number of spell tokens at the same time before rolling to give the Caster +1/-1 to the roll per token.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Regeneration",
+    "id": "8KujvrTG8k9p",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "When a unit where most models have this rule takes wounds, roll one die for each. On a 5+ it is ignored.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+  {
+    "name": "Blast",
+    "id": "w_vX0mi58KKt",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Ignores Cover, and after resolving other special rules, each hit is multiplied by X, where X is up to as many hits as models in the target unit.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
   }
 ]

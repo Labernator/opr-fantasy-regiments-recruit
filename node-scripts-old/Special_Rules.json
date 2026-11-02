@@ -488,6 +488,34 @@
         ]
       },
       {
+    "name": "Shred",
+    "id": "IEJp3a4vE0CB",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "For each unmodified result of 1 to block hits, this weapon deals 1 extra wound.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+    {
+    "name": "Shielded",
+    "id": "wsqfB0fq69eG",
+    "hidden": false,
+    "typeId": "3557-8ab4-304c-4f6a",
+    "typeName": "Special Rule",
+    "characteristics": [
+      {
+        "name": "Description",
+        "$text": "Units where most models have this rule get +1 to Defense rolls against hits that are not from spells.",
+        "typeId": "1eb5-296a-bd06-a87a"
+      }
+    ]
+  },
+      {
         "name": "Slow",
         "id": "Ldhtmr4H8b6G",
         "hidden": false,

@@ -668,7 +668,7 @@
                 ]
               },
               {
-                "name": "Leaders & Mounts",
+                "name": "Abilities & Mounts",
                 "id": "041d-fccd-9b43-d457",
                 "hidden": false,
                 "sortIndex": 4,
@@ -1177,7 +1177,7 @@
                 ]
               },
               {
-                "name": "Leaders & Mounts",
+                "name": "Abilities & Mounts",
                 "id": "21fa-cea9-72fa-9435",
                 "hidden": false,
                 "sortIndex": 4,
@@ -1893,7 +1893,7 @@
         ],
         "entryLinks": [
           {
-            "name": "Heavy Claws",
+            "name": "Heavy Claws (A2, AP(1))",
             "id": "f717-6439-96a3-69d4",
             "hidden": false,
             "import": true,
@@ -2481,7 +2481,7 @@
         "infoLinks": [
           {"name": "Armour (3+)", "id": "7269-8791-4926-8a37", "hidden": false, "targetId": "ef19-c6a5-1da3-7326", "type": "profile"},
           {"name": "Flying", "id": "a15b-5730-7c09-34a4", "hidden": false, "targetId": "-QJdqJEKjIpE", "type": "profile"},
-          {"name": "Fear", "id": "c126-627b-ef82-77d8", "hidden": false, "targetId": "dIQ3SGl2J2Ew", "type": "profile"},
+          {"name": "Fear (1)", "id": "c126-627b-ef82-77d8", "hidden": false, "targetId": "e881-07f4-2314-3e22", "type": "profile"},
           {"name": "Tough (+6)", "id": "a95b-6245-63a6-b59e", "hidden": false, "targetId": "7430-8da5-d855-b627", "type": "profile"}
         ]
       },
@@ -2528,7 +2528,7 @@
         "infoLinks": [
           {"name": "Armour (3+)", "id": "ee15-e069-ccc8-50f9", "hidden": false, "targetId": "ef19-c6a5-1da3-7326", "type": "profile"},
           {"name": "Regeneration", "id": "7296-22c9-2eba-0e8b", "hidden": false, "targetId": "8KujvrTG8k9p", "type": "profile"},
-          {"name": "Fear", "id": "67c0-4569-f7bd-424c", "hidden": false, "targetId": "dIQ3SGl2J2Ew", "type": "profile"},
+          {"name": "Fear (1)", "id": "67c0-4569-f7bd-424c", "hidden": false, "targetId": "e881-07f4-2314-3e22", "type": "profile"},
           {"name": "Tough (+6)", "id": "ca70-bd07-8232-fc75", "hidden": false, "targetId": "7430-8da5-d855-b627", "type": "profile"}
         ]
       },
@@ -2658,6 +2658,7 @@
                         "typeId": "6c87-d500-88a9-391e",
                         "typeName": "Weapon",
                         "characteristics": [
+                          {"name": "#", "$text": "", "typeId": "dbc4-9429-e2fe-bc33"},
                           {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
                           {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
                           {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4698,6 +4699,7 @@
                     "typeId": "6c87-d500-88a9-391e",
                     "typeName": "Weapon",
                     "characteristics": [
+                      {"name": "#", "$text": "", "typeId": "dbc4-9429-e2fe-bc33"},
                       {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
                       {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
                       {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -6136,7 +6138,7 @@
                 "sortIndex": 1,
                 "entryLinks": [
                   {
-                    "name": "Heavy Claws",
+                    "name": "Heavy Claws (A2, AP(1))",
                     "id": "e36a-1303-33d9-302c",
                     "hidden": false,
                     "import": true,
