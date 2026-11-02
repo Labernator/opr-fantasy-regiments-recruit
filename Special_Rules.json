@@ -1256,6 +1256,140 @@
         "typeId": "3557-8ab4-304c-4f6a",
         "typeName": "Special Rule",
         "characteristics": [{"name": "Description", "$text": "Increases the Tough value by the number in the brackets", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Relentless Aura",
+        "id": "75e0-b9e6-b71d-52fa",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Relentless'.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Shielded Aura",
+        "id": "f88a-fb9d-de4e-40b4",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Shielded'.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Spell Conduit",
+        "id": "a1d8-5014-270b-977a",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Casters within 12\" that are from other friendly units may cast spells as if they were in this model's position, and get +1 to casting rolls when doing so. Friendly casters may only use this rule if this unit isn't Shaken.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Fearless Aura",
+        "id": "fa71-59fc-e923-167d",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model and its unit get 'Fearless'.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Piercing Tag(2)",
+        "id": "0080-ea5f-d974-5c36",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "nce per game, during this model's activation, before attacking, place 2 tokens on one enemy unit within 24\" and in line of sight, or one token on 2 enemy units within 24\" and in line of sight. When attacking, friendly units may remove one token from their target before rolling to block to get AP(+1) on their weapons.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Slayer",
+        "id": "6537-eda1-0595-9aff",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "When using Hold actions and shooting, or when charging, this model's weapons get AP(+2) if most models in the target have Tough(3) or higher.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Hit & Run",
+        "id": "fa34-391f-76f1-3990",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "Once per round, this model may move by up to 3\" after shooting or being in melee.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Highborn",
+        "id": "53cd-8fbb-b4d5-d0e4",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [{"name": "Description", "$text": "This model gets +4\"/+2\" range when shooting/charging.", "typeId": "1eb5-296a-bd06-a87a"}]
+      },
+      {
+        "name": "Vanguard",
+        "id": "ead9-4c4a-cfae-964e",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "After this model is deployed, it may be placed anywhere fully within 9\" of its position, over 9\" away from non-Vanguard enemy units.",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Bounding",
+        "id": "8f3d-e73f-55b5-5227",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {"name": "Description", "$text": "When this unit is activated, you may move all models with this rule in it by up to D3+1\".", "typeId": "1eb5-296a-bd06-a87a"}
+        ]
+      },
+      {
+        "name": "Precision Debuff",
+        "id": "7bc1-91ea-e2ee-d5fb",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per activation, before attacking, pick one enemy unit within 18\" in line of sight, which gets -1 to hit rolls when attacking once (next time the effect would apply).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
+      },
+      {
+        "name": "Precision Shooting Mark",
+        "id": "d7f5-68d6-59a7-a474",
+        "hidden": false,
+        "typeId": "3557-8ab4-304c-4f6a",
+        "typeName": "Special Rule",
+        "characteristics": [
+          {
+            "name": "Description",
+            "$text": "Once per activation, before attacking, pick one enemy unit within 18\" in line of sight, which friendly units get +1 to hit rolls when shooting against once (next time the effect would apply).",
+            "typeId": "1eb5-296a-bd06-a87a"
+          }
+        ]
       }
     ],
     "sharedSelectionEntries": [
@@ -1586,7 +1720,7 @@
         "infoLinks": [{"name": "Flying", "id": "040a-6ef3-74a4-2a37", "hidden": false, "targetId": "-QJdqJEKjIpE", "type": "profile"}]
       },
       {
-        "name": "Cursed Monolith",
+        "name": "Cursed Monolith (Casting Buff)",
         "id": "715b-4bdc-8694-a9db",
         "hidden": false,
         "import": true,
@@ -1691,7 +1825,7 @@
         ]
       },
       {
-        "name": "Sky Raider (Ambush",
+        "name": "Sky Raider (Ambush)",
         "id": "4ab7-7a44-8f34-8a28",
         "hidden": false,
         "import": true,
@@ -1777,6 +1911,160 @@
         "import": true,
         "type": "upgrade",
         "infoLinks": [{"name": "Fast", "id": "2fe0-77ee-ff2a-2e08", "hidden": false, "targetId": "KdgwlPb8LuD2", "type": "profile"}]
+      },
+      {
+        "name": "Weapon Master (Furious)",
+        "id": "5ea8-db16-a357-8ad9",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Furious", "id": "852e-40e3-e7f8-72d9", "hidden": false, "targetId": "JoOCVPx1xT1G", "type": "profile"}]
+      },
+      {
+        "name": "Phoenix Warrior (Regeneration)",
+        "id": "ccd6-53df-5201-79d3",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Regeneration", "id": "f2de-8b3d-1ecf-7849", "hidden": false, "targetId": "8KujvrTG8k9p", "type": "profile"}]
+      },
+      {
+        "name": "Lion Warrior (Fearless, Spell Resistance)",
+        "id": "4d3b-4acb-cd8a-3b45",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Fearless", "id": "9510-b5c3-68d1-2da2", "hidden": false, "targetId": "2atvlmICQSCV", "type": "profile"},
+          {"name": "Spell Resistance", "id": "a9a9-fabe-6775-3cc2", "hidden": false, "targetId": "6496-56bd-6e9e-4678", "type": "profile"}
+        ]
+      },
+      {
+        "name": "War Prince (Shred in Melee Aura)",
+        "id": "688b-be1d-f880-985a",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Shred in Melee Aura", "id": "a8a7-89a3-4c1a-b82b", "hidden": false, "targetId": "IEJp3a4vE0CB", "type": "profile"},
+          {"name": "Shred", "id": "ee87-e307-44b7-adb7", "hidden": false, "targetId": "2ec1-59cf-d3de-4d20", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Mage (Caster(2))",
+        "id": "2d52-5045-c88a-aff0",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Caster (2)", "id": "4296-95b2-0cfc-d83c", "hidden": false, "targetId": "2314-1aa4-a4c0-ac52", "type": "profile"}]
+      },
+      {
+        "name": "Master Mage (Caster(3))",
+        "id": "55c3-2345-39f6-1927",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Caster (3)", "id": "26f3-3618-8497-5986", "hidden": false, "targetId": "778f-9b72-53e5-e8dd", "type": "profile"}]
+      },
+      {
+        "name": "Spell Master (Caster(1))",
+        "id": "b86a-b525-6194-9ca8",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Caster (1)", "id": "ee30-d5b5-0ac7-0224", "hidden": false, "targetId": "a216-f909-b23a-327b", "type": "profile"}]
+      },
+      {
+        "name": "Magic Cloud (Fast, Flying)",
+        "id": "5dc7-65dd-918b-544a",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Fast", "id": "fcec-76dc-442f-76aa", "hidden": false, "targetId": "KdgwlPb8LuD2", "type": "profile"},
+          {"name": "Flying", "id": "8daf-fbfd-0f98-b63d", "hidden": false, "targetId": "-QJdqJEKjIpE", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Coast Warden (Shielded Aura)",
+        "id": "313c-804f-f6ac-1f4c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Shielded Aura", "id": "9c7d-66f2-0ecd-4501", "hidden": false, "targetId": "f88a-fb9d-de4e-40b4", "type": "profile"},
+          {"name": "Shielded", "id": "e322-c5e6-e3c8-fc10", "hidden": false, "targetId": "wsqfB0fq69eG", "type": "profile"}
+        ]
+      },
+      {
+        "name": "High Merchant (Relentless Aura)",
+        "id": "dfa0-9035-7d42-c898",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Relentless Aura", "id": "c018-4c0f-7e2c-008e", "hidden": false, "targetId": "75e0-b9e6-b71d-52fa", "type": "profile"},
+          {"name": "Relentless", "id": "9e8e-53c6-7f6d-5f09", "hidden": false, "targetId": "H9E9PIWpGRdw", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Mage Acolyte (Spell Conduit)",
+        "id": "7b32-fde1-85d5-2db1",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Spell Conduit", "id": "6b07-31e0-2cde-e38d", "hidden": false, "targetId": "a1d8-5014-270b-977a", "type": "profile"}]
+      },
+      {
+        "name": "Ambassador (Fearless Aura)",
+        "id": "abad-b00a-bab5-4365",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {"name": "Fearless", "id": "0155-b542-983f-d927", "hidden": false, "targetId": "2atvlmICQSCV", "type": "profile"},
+          {"name": "Fearless Aura", "id": "c83f-a37a-0ae8-e02c", "hidden": false, "targetId": "fa71-59fc-e923-167d", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Light-Beacon Conjurer (Piercing Tag(2))",
+        "id": "4c0f-db4e-f229-4679",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Piercing Tag(2)", "id": "cd28-dda8-ef30-ed2c", "hidden": false, "targetId": "0080-ea5f-d974-5c36", "type": "profile"}]
+      },
+      {
+        "name": "Fast as the Wind (Hit & Run)",
+        "id": "a6fc-167a-2275-86e1",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Hit & Run", "id": "ffa3-ed02-6bfb-218b", "hidden": false, "targetId": "fa34-391f-76f1-3990", "type": "profile"}]
+      },
+      {
+        "name": "Monster Hunter (Slayer)",
+        "id": "7eeb-7ee6-e1a9-7f63",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Slayer", "id": "22ea-12f4-6bd3-7f6d", "hidden": false, "targetId": "6537-eda1-0595-9aff", "type": "profile"}]
+      },
+      {
+        "name": "Coastal Warding (Precision Shooting Mark)",
+        "id": "94c9-287f-767b-edf2",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Precision Shooting Mark", "id": "017b-49be-7570-aa88", "hidden": false, "targetId": "d7f5-68d6-59a7-a474", "type": "profile"}]
+      },
+      {
+        "name": "Frost Blizzard (Precision Debuff)",
+        "id": "b8c0-7863-557a-4b0f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [{"name": "Precision Debuff", "id": "0539-8263-c4ad-349c", "hidden": false, "targetId": "7bc1-91ea-e2ee-d5fb", "type": "profile"}]
       }
     ]
   }

@@ -2658,7 +2658,7 @@
                         "typeId": "6c87-d500-88a9-391e",
                         "typeName": "Weapon",
                         "characteristics": [
-                          {"name": "#", "$text": "", "typeId": "dbc4-9429-e2fe-bc33"},
+                          
                           {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
                           {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
                           {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4699,7 +4699,7 @@
                     "typeId": "6c87-d500-88a9-391e",
                     "typeName": "Weapon",
                     "characteristics": [
-                      {"name": "#", "$text": "", "typeId": "dbc4-9429-e2fe-bc33"},
+                      
                       {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
                       {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
                       {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
