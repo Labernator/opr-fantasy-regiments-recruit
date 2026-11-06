@@ -293,7 +293,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -319,7 +318,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -346,7 +344,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -373,7 +370,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -400,7 +396,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -426,7 +421,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -452,7 +446,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -477,7 +470,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -501,7 +493,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -525,7 +516,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -549,7 +539,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -573,7 +562,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -599,7 +587,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -624,7 +611,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "3", "typeId": "0a60-e782-a04a-e6ce"},
@@ -649,7 +635,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -675,7 +660,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -699,7 +683,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -725,7 +708,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -748,7 +730,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -775,7 +756,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -800,7 +780,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -825,7 +804,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -850,7 +828,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -875,7 +852,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -900,7 +876,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -925,7 +900,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -950,7 +924,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -975,7 +948,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1000,7 +972,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1024,7 +995,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1048,7 +1018,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1072,7 +1041,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1082,7 +1050,7 @@
         ]
       },
       {
-        "name": "Dark Bolt Thrower (30\", A6, Lacerate)",
+        "name": "Dark Bolt Thrower (30\", A6, AP(1), Lacerate)",
         "id": "c5a7-aa3f-cf6c-05a2",
         "hidden": false,
         "import": true,
@@ -1097,10 +1065,9 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "30\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
-              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
               {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
             ]
           }
@@ -1122,7 +1089,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1147,7 +1113,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1172,7 +1137,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1201,7 +1165,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1225,7 +1188,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1250,7 +1212,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1275,7 +1236,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1299,7 +1259,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1323,7 +1282,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1348,7 +1306,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1372,7 +1329,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1397,7 +1353,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1421,7 +1376,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1446,7 +1400,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1471,7 +1424,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1496,7 +1448,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1520,7 +1471,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1544,7 +1494,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1569,7 +1518,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1594,7 +1542,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1619,7 +1566,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "30\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "3", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1644,7 +1590,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1668,7 +1613,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "30\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1693,7 +1637,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1718,7 +1661,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1743,7 +1685,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1768,7 +1709,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1793,7 +1733,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1817,7 +1756,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1842,7 +1780,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1866,7 +1803,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1890,7 +1826,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1914,7 +1849,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1938,7 +1872,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1963,7 +1896,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -1987,7 +1919,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2012,7 +1943,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2037,7 +1967,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2062,7 +1991,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2087,7 +2015,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2116,7 +2043,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "6\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2145,7 +2071,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "6\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2170,7 +2095,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2195,7 +2119,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2219,7 +2142,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2244,7 +2166,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2269,7 +2190,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2294,7 +2214,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "36\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2319,7 +2238,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2344,7 +2262,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2372,7 +2289,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2397,7 +2313,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2421,7 +2336,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2449,7 +2363,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2473,7 +2386,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2498,7 +2410,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2523,7 +2434,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2548,7 +2458,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2573,7 +2482,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2598,7 +2506,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2626,7 +2533,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2651,7 +2557,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "30\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2676,7 +2581,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2701,7 +2605,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2726,7 +2629,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2751,7 +2653,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2776,7 +2677,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2800,7 +2700,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2825,7 +2724,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2850,7 +2748,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2875,7 +2772,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2900,7 +2796,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2928,7 +2823,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2952,7 +2846,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -2977,7 +2870,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3002,7 +2894,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "30\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3027,7 +2918,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3052,7 +2942,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3076,7 +2965,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3100,7 +2988,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3125,7 +3012,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3150,7 +3036,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3175,7 +3060,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3199,7 +3083,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "36\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3227,7 +3110,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "36\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3252,7 +3134,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3277,7 +3158,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3305,7 +3185,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3329,7 +3208,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3354,7 +3232,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3379,7 +3256,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3407,7 +3283,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3435,7 +3310,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3460,7 +3334,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3484,7 +3357,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3508,7 +3380,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3533,7 +3404,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3557,7 +3427,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3581,7 +3450,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3606,7 +3474,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3634,7 +3501,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "36\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3659,7 +3525,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3684,7 +3549,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3708,7 +3572,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3732,7 +3595,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3756,7 +3618,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3780,7 +3641,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3805,7 +3665,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3830,7 +3689,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3854,7 +3712,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3878,7 +3735,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3906,7 +3762,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3934,7 +3789,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3962,7 +3816,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -3986,7 +3839,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4010,7 +3862,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4035,7 +3886,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4060,7 +3910,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4085,7 +3934,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4110,7 +3958,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4134,7 +3981,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4159,7 +4005,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4184,7 +4029,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4209,7 +4053,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4233,7 +4076,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4258,7 +4100,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4283,7 +4124,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "3", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4307,7 +4147,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "12", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4331,7 +4170,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4356,7 +4194,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4381,7 +4218,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "18", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4406,7 +4242,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4431,7 +4266,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4456,7 +4290,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4481,7 +4314,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4506,7 +4338,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4531,7 +4362,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4556,7 +4386,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4580,7 +4409,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4604,7 +4432,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4628,7 +4455,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4653,7 +4479,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4678,7 +4503,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4703,7 +4527,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4728,7 +4551,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4756,7 +4578,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4781,7 +4602,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4805,7 +4625,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4830,7 +4649,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4855,7 +4673,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "4", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4879,7 +4696,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4904,7 +4720,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4929,7 +4744,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4954,7 +4768,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -4979,7 +4792,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5004,7 +4816,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5028,7 +4839,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5056,7 +4866,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "36\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5084,7 +4893,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5109,7 +4917,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5134,7 +4941,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5159,7 +4965,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "9", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5184,7 +4989,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "9", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5214,7 +5018,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "6\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5244,7 +5047,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "6\"", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5269,7 +5071,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5294,7 +5095,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5319,7 +5119,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5344,7 +5143,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5369,7 +5167,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5394,7 +5191,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5418,7 +5214,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5442,7 +5237,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5481,7 +5275,6 @@
             "typeId": "6c87-d500-88a9-391e",
             "typeName": "Weapon",
             "characteristics": [
-              
               {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
               {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
               {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
@@ -5497,6 +5290,1247 @@
         "import": true,
         "type": "upgrade",
         "infoLinks": [{"name": "Impact (4)", "id": "0774-9917-b229-2d74", "hidden": false, "targetId": "c75b-616a-6ec9-818a", "type": "profile"}]
+      },
+      {
+        "name": "Master Blood Glaive (A6, AP(1), Rending)",
+        "id": "6478-0a94-9ecd-07b3",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "2587-672e-4a29-21df", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Rending", "id": "f2af-4e4e-d4d3-b0eb", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Master Blood Glaive",
+            "id": "12cf-284e-85bb-30eb",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Master Dark Cutlass (A6, AP(2), Lacerate)",
+        "id": "8364-e3be-afc0-e4f7",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "a177-c82c-beef-e1a6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "53ec-aa30-faec-9daf", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Master Dark Cutlass",
+            "id": "c3d8-43aa-7858-ef91",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sorceress Staff (A4, Spell Amplifier)",
+        "id": "b298-8702-08b9-45bd",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "b22c-7b6b-3b2a-e9fb", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Spell Amplifier", "id": "3fd1-d7b7-5a0e-3408", "hidden": false, "targetId": "9f1c-7423-bfdc-39cc", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Sorceress Staff",
+            "id": "ce7a-6e55-cc81-ba40",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Spell Amplifier", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Throwing Knives (12\", A3, Assault)",
+        "id": "f121-19a8-4397-f8a6",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "2ebf-0ab9-51f4-8e02", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Assault", "id": "1fd1-6a29-11f7-4c4d", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Throwing Knives",
+            "id": "3d06-a80a-14be-c11e",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Blood Glaive (A6, Rending)",
+        "id": "6949-f50c-2774-c05e",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "86c6-60ab-f32c-d6d6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Rending", "id": "a8da-d151-7bce-c886", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Blood Glaive",
+            "id": "c14c-f695-572e-cd64",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Seeker Bow (18\", A9, Bane)",
+        "id": "53d8-e1d2-b707-5fcf",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "a55f-6c73-1efe-d80e", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Bane", "id": "0138-a1e3-f75b-c46e", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Seeker Bow",
+            "id": "b23f-b729-4d5a-11c8",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "9", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Strike (A2)",
+        "id": "c7b5-ced5-7654-7315",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "892f-3e86-dc25-b0c2", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "profiles": [
+          {
+            "name": "Strike",
+            "id": "1f4a-4bdb-e041-9fb2",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Master Dark Cutlass (A3, AP(2), Lacerate)",
+        "id": "d2db-ec18-f2ad-07bf",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "86c7-5ad7-75a7-86ae", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "657f-67cc-e76a-d6a1", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Master Dark Cutlass",
+            "id": "4ace-f3ad-2dd3-0926",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rapid Dark Handbow (12\", A3, Assault, Lacerate)",
+        "id": "d47b-583c-093d-f572",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "b161-a84c-2bd1-06dc", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Lacerate", "id": "14ab-dbbe-6685-855d", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"},
+          {"name": "Assault", "id": "7ff7-7209-3bcc-12db", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Rapid Dark Handbow",
+            "id": "3d10-dc38-4cb1-6c05",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Combat Whips (A4, AP(1), Surge)",
+        "id": "f2b6-2b3e-afe4-eed4",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "5ec1-3569-7c00-d538", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Surge", "id": "12a9-9b46-f523-0ad2", "hidden": false, "targetId": "740c-3721-deed-59ab", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dual Combat Whips",
+            "id": "92c9-4c43-e1d8-d67c",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Surge", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Repeater Handbows (6\", A4, Rending, Assault)",
+        "id": "d40c-ccf6-9df4-cddd",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "d170-e657-e07f-c795", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Rending", "id": "c38d-6df7-3966-c0be", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"},
+          {"name": "Assault", "id": "2742-8b7f-00d0-65cf", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Dual Repeater Handbows",
+            "id": "9a7d-c7bd-1938-55ea",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "6\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending, Assault", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Witch Crew (A6, Bane)",
+        "id": "fcb7-ca19-f40a-17de",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "f03f-84c9-3da5-a947", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Bane", "id": "6eed-6d69-f760-d58d", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Witch Crew",
+            "id": "0387-d27f-7d4c-95d3",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jagged Claws (A8, Shred)",
+        "id": "a212-e143-d4b9-9e07",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "8f7b-9221-42eb-8b9a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Shred", "id": "31ce-2c05-c8fa-a494", "hidden": false, "targetId": "3407-ffc6-6801-51d3", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Jagged Claws",
+            "id": "1f7f-d1f1-378e-3a3a",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Shred", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sorceress Staff (A2, Spell Amplifier)",
+        "id": "1199-652f-06de-ae8f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "ca84-c022-cefe-8522", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Spell Amplifier", "id": "92ac-b5a3-10c1-7195", "hidden": false, "targetId": "9f1c-7423-bfdc-39cc", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Sorceress Staff",
+            "id": "23ad-89d1-4eda-c64a",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Spell Amplifier", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Cutlass (A1, AP(1), Lacerate)",
+        "id": "ddda-ae66-a54c-7764",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "0174-25d1-23b5-7990", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "e5f9-6b96-46e9-4801", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dark Cutlass",
+            "id": "7a20-0fdf-efb4-cc78",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Toxin Daggers (A1, Bane)",
+        "id": "59fb-4110-28b4-3582",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "bf5a-db92-8a94-a17d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Bane", "id": "33da-12df-db4b-eb9f", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dual Toxin Daggers",
+            "id": "c0ed-369b-e0ea-39a9",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spiked Catchpole (A4, Thrust)",
+        "id": "8eeb-d676-6828-75e7",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "f3ed-b16e-c1a5-035d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Thrust", "id": "24d4-6998-81e6-9641", "hidden": false, "targetId": "33cc-26b7-0a76-9dd7", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Spiked Catchpole",
+            "id": "2615-09ff-e036-94b6",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Thrust", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Claws (A1, AP(1), Lacerate)",
+        "id": "d33b-a590-9c2d-f2a3",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "196e-88d7-a0be-8af7", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "6dfe-7eda-0bcf-c335", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dark Claws",
+            "id": "9789-b7f5-0180-3ded",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Razor Claws (A2)",
+        "id": "28e4-32b9-2967-8aa9",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "e1ba-ed26-397c-0e5b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "profiles": [
+          {
+            "name": "Razor Claws",
+            "id": "1053-3fb0-9ddf-bf95",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Heavy Javelins (12\", A1, AP(2), Assault)",
+        "id": "6282-cbbe-b1d4-4f3a",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "3481-c8e2-743e-5dd4", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Assault", "id": "3737-bc55-1614-947c", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Heavy Javelins",
+            "id": "3ba0-d5cd-6358-838e",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Handbow (12\", A1, Assault, Lacerate)",
+        "id": "51a0-2349-2446-c4ec",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "81c3-e82a-f687-c85b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Assault", "id": "ede7-2ac4-d163-6d3a", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"},
+          {"name": "Lacerate", "id": "2184-7034-15fa-ea93", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Dark Handbow",
+            "id": "6285-98e4-6764-de0c",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Repeater Handbow (6\", A2, Rending, Assault)",
+        "id": "5e22-a72e-a3c7-b38a",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "59c9-4be0-469e-0b86", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Rending", "id": "59e1-f5d4-2193-88a4", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"},
+          {"name": "Assault", "id": "3656-b2ad-af99-5483", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Repeater Handbow",
+            "id": "cab5-41cf-5f36-f201",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "6\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending, Assault", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Glaive (A1, AP(1), Surge)",
+        "id": "7962-1a6a-9861-5dc4",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "6919-5743-c027-dde6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Surge", "id": "0cab-eee5-1e8f-7543", "hidden": false, "targetId": "740c-3721-deed-59ab", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dual Glaive",
+            "id": "0f7c-3348-8c2f-d81d",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Surge", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Hammer (A1, AP(1), Blast(3), Lacerate)",
+        "id": "624c-5515-2d7f-9600",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "d5b6-83e2-df8c-686a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Blast(3)", "id": "5e47-fa67-8dea-68bf", "hidden": false, "targetId": "25ef-0cf0-ab2a-04f6", "type": "profile"},
+          {"name": "Lacerate", "id": "5301-c22f-e872-2e9f", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Dark Hammer",
+            "id": "d48e-6993-b024-027f",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Blast(3), Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Barbed Whip (A1, Shred)",
+        "id": "90e8-16b3-714e-d7ec",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "8b15-4dc6-d523-ef26", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Shred", "id": "1828-0639-f28e-7952", "hidden": false, "targetId": "3407-ffc6-6801-51d3", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Barbed Whip",
+            "id": "efa2-629a-bd75-e9ec",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Shred", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Combat Whip (A1, AP(1), Surge)",
+        "id": "085a-026d-dfd5-1051",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "0373-b808-fc81-208f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Surge", "id": "bc30-4069-4705-2ef5", "hidden": false, "targetId": "740c-3721-deed-59ab", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Combat Whip",
+            "id": "9ec5-aa1c-2ee5-85e7",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Surge", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Razor-Flails (A4, Rending)",
+        "id": "4a1b-e14c-b045-c89b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "5807-88e7-e74f-b3dc", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Rending", "id": "8c2b-3d21-27d6-9c68", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dual Razor-Flails",
+            "id": "33d8-c5f1-93c0-8f48",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Executioner Glaive (A1, AP(1), Blast(3), Surge)",
+        "id": "0272-def3-1643-222b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "b470-26f9-29ca-4547", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Blast(3)", "id": "75af-68bd-613e-43f7", "hidden": false, "targetId": "25ef-0cf0-ab2a-04f6", "type": "profile"},
+          {"name": "Surge", "id": "cd2d-fac4-503a-c7c0", "hidden": false, "targetId": "740c-3721-deed-59ab", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Executioner Glaive",
+            "id": "57b6-3008-e328-4c62",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Blast(3), Surge", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Executioner Axe (A1, AP(2), Deadly(3), Bane)",
+        "id": "422c-9d36-0cd2-fe0c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "67dd-2f01-79bd-3566", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Deadly(3)", "id": "6bf0-9a53-4efb-a8cf", "hidden": false, "targetId": "4e1d-e49a-c8f4-e8e1", "type": "profile"},
+          {"name": "Bane", "id": "ba80-7f93-ca6b-d80e", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Executioner Axe",
+            "id": "ca3b-b46d-0e19-b811",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Deadly(3), Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Seeker Bow (18\", A3, Bane)",
+        "id": "9183-9b50-b33d-5341",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "05ce-25a0-5a75-b416", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Bane", "id": "7e79-70e4-6802-3cc5", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Seeker Bow",
+            "id": "3093-07aa-4662-0d18",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Crossbow (24\", A1, Lacerate)",
+        "id": "488d-a096-07b0-362c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "4e36-9472-6bd0-7797", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "988a-7706-0c82-c75b", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dark Crossbow",
+            "id": "cdf8-742c-a27e-cfe4",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Repeater Crossbow (12\", A2, Rending)",
+        "id": "80c9-c3fd-6667-8a4f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "71dc-5e6f-3388-d721", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Rending", "id": "3f88-7af9-5933-19ce", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Repeater Crossbow",
+            "id": "ebce-4121-5d63-aa59",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Doom Bolts (9\", A1, Assault, Shred)",
+        "id": "15a8-1481-5d28-1f9c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "d782-83e1-6040-4aed", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Assault", "id": "7805-70a3-da5b-bf5d", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"},
+          {"name": "Shred", "id": "aac5-39b8-c21a-3c67", "hidden": false, "targetId": "3407-ffc6-6801-51d3", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Doom Bolts",
+            "id": "493d-96e6-c841-b25d",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Shred", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Death Stare (9\", A3, Assault, Unstoppable)",
+        "id": "52b1-356d-c54a-8e4f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "fcc1-c4ec-1cec-c1e9", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Assault", "id": "b609-543f-6b10-ab86", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"},
+          {"name": "Unstoppable", "id": "aa55-aae3-8688-6a8f", "hidden": false, "targetId": "c236-cbd6-4c11-ca4d", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Death Stare",
+            "id": "a2b2-d344-6e91-c041",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Unstoppable", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Petrifying Stare (9\", A1, AP(2), Deadly(3), Assault, Takedown)",
+        "id": "3ead-6e22-a1d7-12a6",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "50ed-ccf3-3c6c-d3d4", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Deadly(3)", "id": "a8c7-ba25-d407-b564", "hidden": false, "targetId": "4e1d-e49a-c8f4-e8e1", "type": "profile"},
+          {"name": "Assault", "id": "9ac1-805d-3913-3879", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"},
+          {"name": "Takedown", "id": "cfb6-11c0-80d4-1a1f", "hidden": false, "targetId": "14bf-7029-2ae2-c7f6", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Petrifying Stare",
+            "id": "8276-bd1d-cd2f-137b",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Deadly(3), Assault, Takedown", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spit Venom (9\", A1, Blast(3), Assault, Bane)",
+        "id": "d105-b48f-fbeb-8df2",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "f9b9-e190-2a15-6c88", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Blast(3)", "id": "548b-bed8-6b21-dfd7", "hidden": false, "targetId": "25ef-0cf0-ab2a-04f6", "type": "profile"},
+          {"name": "Assault", "id": "20a3-1ef9-cbf3-2562", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"},
+          {"name": "Bane", "id": "4e45-d14d-aecc-0f93", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Spit Venom",
+            "id": "8f78-ecf3-0807-87a1",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Blast(3), Assault, Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hydra Jaws (A8, AP(1), Lacerate)",
+        "id": "afc4-4745-a062-d57b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "f3dc-5185-e59b-444e", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "56fb-aea4-be86-c13b", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Hydra Jaws",
+            "id": "d836-373e-e3a2-8598",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Repeater Crossbow Crew (12\", A8, Rending)",
+        "id": "d49e-eac6-be67-c47a",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "47eb-1648-ac77-6b59", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Rending", "id": "65ef-a73d-d48a-a445", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Repeater Crossbow Crew",
+            "id": "cb6e-045d-93c4-9a71",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "8", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Harpoon Launcher (18\", A2, AP(3), Deadly(3))",
+        "id": "51f6-3886-e667-9a55",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "6d20-632a-0bc6-25ad", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Deadly(3)", "id": "052e-6028-35e1-fe30", "hidden": false, "targetId": "4e1d-e49a-c8f4-e8e1", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Harpoon Launcher",
+            "id": "0eb3-5f5e-b825-0d07",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "18\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "3", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Deadly(3)", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dual Glaive Crew (A3, AP(1), Surge)",
+        "id": "c67b-977e-5180-f052",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "aac3-d1f0-5f8d-caae", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Surge", "id": "040e-c0ca-8641-a794", "hidden": false, "targetId": "740c-3721-deed-59ab", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dual Glaive Crew",
+            "id": "eae7-7794-2e89-964a",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Surge", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Witch Crew (A3, Bane)",
+        "id": "724a-a899-545a-b077",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "a501-651f-9956-b985", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Bane", "id": "66aa-66cc-0086-dc3b", "hidden": false, "targetId": "c0d7-1643-9364-82fa", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Witch Crew",
+            "id": "73e1-f25f-a57c-32cd",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Bane", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rapid Dark Crossbow (24\", A3, Lacerate)",
+        "id": "8586-fe9b-73cd-49b5",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "3e77-9732-86c0-ae2a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "45e1-9ea8-9a88-03a4", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Rapid Dark Crossbow",
+            "id": "42b6-80b0-a80e-06da",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "24\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spear Crew (A3, Thrust) and Impact(4)",
+        "id": "2299-5a36-340d-3c29",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "293d-76b8-11e5-a9e6", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "entryLinks": [
+          {
+            "name": "Spear Crew (A3, Thrust)",
+            "id": "6695-59da-2ec9-cdcd",
+            "hidden": false,
+            "import": true,
+            "targetId": "f63d-ec6e-3aa5-07f4",
+            "type": "selectionEntry",
+            "constraints": [{"id": "4598-cdf4-2b9d-9833", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1}]
+          }
+        ],
+        "infoLinks": [{"name": "Impact (4)", "id": "c214-a9dc-e089-957f", "hidden": false, "targetId": "c75b-616a-6ec9-818a", "type": "profile"}]
+      },
+      {"name": "New Entry", "id": "e20c-123f-bef4-61c6", "hidden": false, "import": true, "type": "upgrade"},
+      {
+        "name": "Rapid Repeater Crossbow (12\", A4, Rending)",
+        "id": "2522-d70c-2587-a666",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "96f2-1499-f252-ccbd", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Rending", "id": "cea0-4363-129f-fe3e", "hidden": false, "targetId": "4524-1f73-84c8-8176", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Rapid Repeater Crossbow",
+            "id": "1099-c170-e6a7-bb40",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "4", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Rending", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hunting Harpoons (9\", A1, AP(2), Assault Deadly(3))",
+        "id": "b472-8fa5-d11f-2cce",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "a404-aba1-89ec-7482", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "costs": [{"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 0}],
+        "infoLinks": [
+          {"name": "Deadly(3)", "id": "2138-3093-8961-24da", "hidden": false, "targetId": "4e1d-e49a-c8f4-e8e1", "type": "profile"},
+          {"name": "Assault", "id": "ca2a-9490-d33a-b533", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Hunting Harpoons",
+            "id": "29ec-b319-b051-2c34",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "1", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Deadly(3)", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Cutlass (A3, AP(1), Lacerate)",
+        "id": "c9a1-c8fb-9ca5-4be6",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "75b5-436b-54c0-e88a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "8d2f-adb1-9b53-f5e8", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dark Cutlass",
+            "id": "0acb-ba0e-0227-c497",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hunting Harpoons (9\", A3, AP(2), Assault Deadly(3))",
+        "id": "ff4f-e87a-779d-5fe9",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "fbfa-1f26-448a-1b43", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "costs": [{"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 0}],
+        "infoLinks": [
+          {"name": "Deadly(3)", "id": "0eb1-d526-3ff2-94b8", "hidden": false, "targetId": "4e1d-e49a-c8f4-e8e1", "type": "profile"},
+          {"name": "Assault", "id": "5fcc-e24f-ffdd-361c", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Hunting Harpoons",
+            "id": "dc38-96b6-6ec6-7e23",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Deadly(3)", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Great Javelins (12\", A2, AP(2), Assault)",
+        "id": "60fa-3e68-1930-081f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "2764-a15f-f89c-c8ed", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Assault", "id": "28ee-e117-a725-f628", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Great Javelins",
+            "id": "310b-cd6e-78da-c547",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "12\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "2", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "2", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Death Stare (9\", A3, Assault, Unstoppable)",
+        "id": "ffcf-a6d6-d50f-2c6b",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "2c0a-f4b7-0f1a-5cf5", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [
+          {"name": "Assault", "id": "021b-7e93-4852-eb33", "hidden": false, "targetId": "6749-451f-74f8-d6e3", "type": "profile"},
+          {"name": "Unstoppable", "id": "0c5d-3d5b-8dcf-2dd1", "hidden": false, "targetId": "c236-cbd6-4c11-ca4d", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Death Stare",
+            "id": "fec4-d03a-ecb9-f757",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "9\"", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "3", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "-", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Assault, Unstoppable", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dark Cutlass (A6, AP(1), Lacerate)",
+        "id": "11ba-d01f-08b1-ad2f",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [{"id": "f3e6-42e3-3f32-686c", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "infoLinks": [{"name": "Lacerate", "id": "477c-5387-c0ad-a22f", "hidden": false, "targetId": "0526-2c78-eaec-7788", "type": "profile"}],
+        "profiles": [
+          {
+            "name": "Dark Cutlass",
+            "id": "655f-8ed5-3596-6369",
+            "hidden": false,
+            "typeId": "6c87-d500-88a9-391e",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Rng", "$text": "-", "typeId": "fab9-2a51-bdac-23c6"},
+              {"name": "ATK", "$text": "6", "typeId": "75d2-2272-05fb-9ced"},
+              {"name": "AP", "$text": "1", "typeId": "0a60-e782-a04a-e6ce"},
+              {"name": "Special Rules", "$text": "Lacerate", "typeId": "56a2-97e0-9760-25b7"}
+            ]
+          }
+        ]
       }
     ]
   }

@@ -274,7 +274,7 @@
         "type": "upgrade",
         "infoLinks": [
           {"name": "Fast", "id": "de19-d764-2dd5-9580", "hidden": false, "targetId": "KdgwlPb8LuD2", "type": "profile"},
-          {"name": "Impact (3)", "id": "1cbb-7f47-4f98-8254", "hidden": false, "targetId": "1e7a-7465-63f6-1ce8", "type": "profile"},
+          {"name": "Impact (3)", "id": "1cbb-7f47-4f98-8254", "hidden": false, "targetId": "92dd-b939-f85a-9915", "type": "profile"},
           {"name": "Flying", "id": "a122-f0ef-de37-8b5d", "hidden": false, "targetId": "-QJdqJEKjIpE", "type": "profile"},
           {"name": "Tough (+3)", "id": "9f82-43e1-b529-58dc", "hidden": false, "targetId": "8d31-03c5-361a-3006", "type": "profile"}
         ]
@@ -2094,7 +2094,7 @@
                         ]
                       },
                       {
-                        "name": "Rapid Bow / Deadly Bolts",
+                        "name": "Cursed Blade / Toxin Claws / Lance / Great Weapon",
                         "id": "7a9e-2283-14bc-d206",
                         "hidden": false,
                         "import": true,
@@ -2112,7 +2112,14 @@
                     "type": "upgrade",
                     "costs": [{"name": "pts", "typeId": "f61f-dea7-5994-4a92", "value": 10}, {"name": "unit", "typeId": "ad3a-b975-a0ff-de12", "value": 0}],
                     "entryLinks": [
-                      {"name": "Sling", "id": "d2dc-2e59-a00a-cde0", "hidden": false, "import": true, "targetId": "aa5b-24e6-40ff-bd0f", "type": "selectionEntryGroup"},
+                      {
+                        "name": "Sling / Cursed Bolts / Dark Bolts",
+                        "id": "d2dc-2e59-a00a-cde0",
+                        "hidden": false,
+                        "import": true,
+                        "targetId": "aa5b-24e6-40ff-bd0f",
+                        "type": "selectionEntryGroup"
+                      },
                       {
                         "name": "Spear / Halberd / Hand Weapon / Great Weapon",
                         "id": "1d9c-a842-ddd7-bf46",
@@ -5769,7 +5776,7 @@
             "sortIndex": 2,
             "entryLinks": [
               {
-                "name": "Sky Raider (Ambush",
+                "name": "Sky Raider (Ambush)",
                 "id": "e42f-17fd-8305-2167",
                 "hidden": false,
                 "import": true,
@@ -6294,7 +6301,7 @@
             "infoLinks": [
               {"name": "Cursed Undead", "id": "10e7-84e5-61c9-ac3b", "hidden": false, "targetId": "aad1-021c-0428-7344", "type": "profile"},
               {"name": "Flying", "id": "db4e-9096-6442-6e91", "hidden": false, "targetId": "-QJdqJEKjIpE", "type": "profile"},
-              {"name": "Impact (3)", "id": "fdec-7925-3beb-e421", "hidden": false, "targetId": "1e7a-7465-63f6-1ce8", "type": "profile"},
+              {"name": "Impact (3)", "id": "fdec-7925-3beb-e421", "hidden": false, "targetId": "92dd-b939-f85a-9915", "type": "profile"},
               {"name": "Regeneration", "id": "a93a-1334-52f0-f143", "hidden": false, "targetId": "8KujvrTG8k9p", "type": "profile"},
               {"name": "Tough (3)", "id": "d250-23c9-2f7b-a029", "hidden": false, "targetId": "a399-8665-775c-3f4f", "type": "profile"}
             ]
@@ -6775,7 +6782,7 @@
             "sortIndex": 2,
             "entryLinks": [
               {
-                "name": "Sky Raider (Ambush",
+                "name": "Sky Raider (Ambush)",
                 "id": "5158-ced0-3837-1b26",
                 "hidden": false,
                 "import": true,
@@ -7299,7 +7306,7 @@
                 "constraints": [{"id": "fd3d-caad-b546-01ff", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
                 "entryLinks": [
                   {
-                    "name": "Cursed Monolith",
+                    "name": "Cursed Monolith (Casting Buff)",
                     "id": "3a8b-2dc6-3403-7fb5",
                     "hidden": false,
                     "import": true,
@@ -8124,7 +8131,7 @@
                 "sortIndex": 3,
                 "entryLinks": [
                   {
-                    "name": "Sky Raider (Ambush",
+                    "name": "Sky Raider (Ambush)",
                     "id": "fa0d-1dd5-ae0a-c839",
                     "hidden": false,
                     "import": true,
